@@ -1,0 +1,872 @@
+,First Name,Last Name,Club,Position(s),Base Salary,Guaranteed Compensation,name
+0,Ilsinho,,Philadelphia Union,M,"$450,000.00","$501,250.00",Ilsinho 
+1,Judson,,San Jose Earthquakes,M,"$360,000.00","$365,000.00",Judson 
+2,Auro,,Toronto FC,D,"$360,000.00","$388,750.00",Auro 
+3,Paxten,Aaronson,Philadelphia Union,M,"$87,500.00","$91,500.00",Paxten Aaronson
+4,Saad,Abdul-Salaam,Columbus Crew,D,"$125,000.00","$133,667.00",Saad Abdul-Salaam
+5,Luciano,Abecasis,San Jose Earthquakes,D,"$380,000.00","$394,000.00",Luciano Abecasis
+6,Ramon,Abila,DC United,F,"$800,000.00","$1,105,000.00",Ramon Abila
+7,Lalas,Abubakar,Colorado Rapids,D,"$210,000.00","$247,125.00",Lalas Abubakar
+8,David,Accam,Nashville SC,F,"$975,000.00","$1,102,916.00",David Accam
+9,Nicolas,Acevedo,New York City FC,D-M,"$135,000.00","$151,000.00",Nicolas Acevedo
+10,Ifunanyachi,Achara,Toronto FC,M,"$66,724.00","$66,724.00",Ifunanyachi Achara
+11,Kellyn,Acosta,Colorado Rapids,M,"$1,000,000.00","$1,115,000.00",Kellyn Acosta
+12,Luciano,Acosta,FC Cincinnati,M,"$1,943,500.00","$2,222,854.00",Luciano Acosta
+13,Bryan,Acosta,FC Dallas,M,"$650,000.00","$700,000.00",Bryan Acosta
+14,George,Acosta,Inter Miami,M,"$81,375.00","$81,375.00",George Acosta
+15,Danilo,Acosta,LA Galaxy,D,"$135,000.00","$135,000.00",Danilo Acosta
+16,"Mohammed ""Mo""",Adams,Atlanta United,M,"$121,000.00","$141,000.00","Mohammed ""Mo"" Adams"
+17,Fanendo,Adi,Minnesota United,F,"$81,375.00","$83,875.00",Fanendo Adi
+18,Harrison,Afful,Columbus Crew,D,"$335,000.00","$365,000.00",Harrison Afful
+19,Juan,Agudelo,Minnesota United,F,"$200,000.00","$212,500.00",Juan Agudelo
+20,Raul,Aguilera,Orlando City SC,M,"$63,547.00","$63,547.00",Raul Aguilera
+21,Daniel,Aguirre,LA Galaxy,M-F,"$63,547.00","$63,547.00",Daniel Aguirre
+22,Matheus,Aias,Orlando City SC,F,"$252,000.00","$267,500.00",Matheus Aias
+23,Jacob,Akanyirige,San Jose Earthquakes,D,"$105,000.00","$107,000.00",Jacob Akanyirige
+24,Tesho,Akindele,Orlando City SC,F,"$275,000.00","$290,000.00",Tesho Akindele
+25,Ayo,Akinola,Toronto FC,F,"$89,513.00","$157,513.00",Ayo Akinola
+26,Oswaldo,Alanis,San Jose Earthquakes,D,"$630,000.00","$730,000.00",Oswaldo Alanis
+27,Antonio,Alfaro,DC United,D,"$81,375.00","$81,375.00",Antonio Alfaro
+28,Ignacio,Aliseda,Chicago Fire,M,"$600,000.00","$821,501.00",Ignacio Aliseda
+29,Osvaldo,Alonso,Minnesota United,M,"$300,000.00","$322,000.00",Osvaldo Alonso
+30,Jozy,Altidore,Toronto FC,F,"$2,161,250.00","$3,602,250.00",Jozy Altidore
+31,Ventura,Alvarado,Inter Miami,D,"$81,375.00","$124,708.00",Ventura Alvarado
+32,Alexander,Alvarado,Orlando City SC,F,"$220,000.00","$238,240.00",Alexander Alvarado
+33,Matheus,Alvarenga de Oliveira,Philadelphia Union,M-F,"$240,000.00","$253,000.00",Matheus Alvarenga de Oliveira
+34,Efrain,Alvarez,LA Galaxy,M,"$500,000.00","$612,167.00",Efrain Alvarez
+35,Frankie,Amaya,New York Red Bulls,M,"$150,000.00","$187,000.00",Frankie Amaya
+36,Mikey,Ambrose,Atlanta United,D,"$81,375.00","$81,375.00",Mikey Ambrose
+37,Malte,Amundsen,New York City FC,D,"$240,000.00","$278,700.00",Malte Amundsen
+38,Sebastian,Anderson,Colorado Rapids,D,"$90,000.00","$91,667.00",Sebastian Anderson
+39,Jalil,Anibaba,Nashville SC,D,"$200,000.00","$200,000.00",Jalil Anibaba
+40,Tah Brian,Anunga,Nashville SC,M,"$81,375.00","$81,375.00",Tah Brian Anunga
+41,Cristian,Arango,LAFC,M-F,"$600,000.00","$659,000.00",Cristian Arango
+42,Luiz,Araujo,Atlanta United,F-M,"$3,600,000.00","$3,941,667.00",Luiz Araujo
+43,Julian,Araujo,LA Galaxy,D,"$550,000.00","$653,750.00",Julian Araujo
+44,Heber,Araujo dos Santos,New York City FC,F,"$785,000.00","$788,750.00",Heber Araujo dos Santos
+45,Adam,Armour,Charlotte FC,D,"$63,547.00","$63,547.00",Adam Armour
+46,Xavier,Arreaga,Seattle Sounders FC,D,"$393,600.00","$500,850.00",Xavier Arreaga
+47,Paul,Arriola,DC United,M,"$1,000,000.00","$1,050,000.00",Paul Arriola
+48,Yamil,Asad,DC United,M-F,"$475,000.00","$542,667.00",Yamil Asad
+49,George,Asomani,San Jose Earthquakes,M,"$63,547.00","$63,547.00",George Asomani
+50,Dairon,Asprilla,Portland Timbers,M-F,"$275,000.00","$277,500.00",Dairon Asprilla
+51,Isaac,Atanga,FC Cincinnati,F,"$259,000.00","$273,000.00",Isaac Atanga
+52,Joshua,Atencio,Seattle Sounders FC,M,"$63,547.00","$68,161.00",Joshua Atencio
+53,Jeff,Attinella,Portland Timbers,GK,"$108,000.00","$114,125.00",Jeff Attinella
+54,Eduard,Atuesta,LAFC,M,"$550,000.00","$1,278,000.00",Eduard Atuesta
+55,Edison,Azcona,Inter Miami,M,"$63,547.00","$63,547.00",Edison Azcona
+56,Dominique,Badji,Colorado Rapids,F,"$300,000.00","$306,250.00",Dominique Badji
+57,Zico,Bailey,FC Cincinnati,D,"$66,724.00","$66,724.00",Zico Bailey
+58,Thelonius,Bair,Vancouver Whitecaps,F,"$81,375.00","$81,375.00",Thelonius Bair
+59,Corey,Baird,Houston Dynamo,F,"$365,000.00","$396,031.00",Corey Baird
+60,Mateo,Bajamich,Houston Dynamo,F,"$264,000.00","$324,069.00",Mateo Bajamich
+61,Reed,Baker-Whiting,Seattle Sounders FC,M,"$63,547.00","$83,547.00",Reed Baker-Whiting
+62,Michael,Baldisimo,Vancouver Whitecaps,M,"$89,513.00","$91,275.00",Michael Baldisimo
+63,Grayson,Banks Barber,Sporting Kansas City,F,"$63,547.00","$67,297.00",Grayson Banks Barber
+64,Ezequiel,Barco,Atlanta United,M,"$1,875,000.00","$2,358,333.00",Ezequiel Barco
+65,Tom,Barlow,New York Red Bulls,F,"$81,375.00","$94,526.00",Tom Barlow
+66,Luis,Barraza,New York City FC,GK,"$81,375.00","$81,375.00",Luis Barraza
+67,Alvaro,Barreal,FC Cincinnati,F,"$300,000.00","$300,000.00",Alvaro Barreal
+68,Michael,Barrios,Colorado Rapids,M,"$650,000.00","$650,000.00",Michael Barrios
+69,Ethan,Bartlow,Houston Dynamo,D,"$81,375.00","$88,875.00",Ethan Bartlow
+70,Cole,Bassett,Colorado Rapids,M,"$110,000.00","$119,000.00",Cole Bassett
+71,Zorhan,Bassong,Montreal,D,"$81,375.00","$93,875.00",Zorhan Bassong
+72,Josh,Bauer,Atlanta United,D,"$63,547.00","$63,547.00",Josh Bauer
+73,Clement,Bayiha,Montreal,M-D,"$85,500.00","$90,875.00",Clement Bayiha
+74,Tanner,Beason,San Jose Earthquakes,D,"$90,000.00","$110,000.00",Tanner Beason
+75,Alejandro,Bedoya,Philadelphia Union,M,"$810,000.00","$1,023,333.00",Alejandro Bedoya
+76,Steven,Beitashour,Colorado Rapids,D,"$150,000.00","$165,000.00",Steven Beitashour
+77,Jon,Bell,New England Revolution,D,"$63,547.00","$63,547.00",Jon Bell
+78,George,Bello,Atlanta United,D,"$135,000.00","$139,000.00",George Bello
+79,Jordan,Bender,Orlando City SC,M,"$63,547.00","$63,547.00",Jordan Bender
+80,Joe,Bendik,Philadelphia Union,GK,"$200,000.00","$200,000.00",Joe Bendik
+81,Nicolas,Benezet,Seattle Sounders FC,M,"$650,000.00","$650,000.00",Nicolas Benezet
+82,Sebastian,Berhalter,Austin FC,M,"$85,000.00","$122,250.00",Sebastian Berhalter
+83,Robert,Beric,Chicago Fire,F,"$2,274,996.00","$2,703,164.00",Robert Beric
+84,Miguel,Berry,Columbus Crew,F,"$85,444.00","$85,444.00",Miguel Berry
+85,Matt,Bersano,San Jose Earthquakes,GK,"$106,375.00","$106,375.00",Matt Bersano
+86,Matt,Besler,Austin FC,D,"$650,000.00","$650,000.00",Matt Besler
+87,Nick,Besler,Real Salt Lake,M,"$167,500.00","$167,500.00",Nick Besler
+88,Janio,Bikel,Vancouver Whitecaps,M,"$350,000.00","$388,750.00",Janio Bikel
+89,Noah,Billingsley,Minnesota United,D,"$66,724.00","$66,724.00",Noah Billingsley
+90,David,Bingham,Portland Timbers,GK,"$81,375.00","$81,375.00",David Bingham
+91,Steven,Birnbaum,DC United,D,"$700,000.00","$712,500.00",Steven Birnbaum
+92,Jose,Bizama,Houston Dynamo,D,"$225,000.00","$250,000.00",Jose Bizama
+93,Tyler,Blackett,FC Cincinnati,D,"$398,400.00","$398,400.00",Tyler Blackett
+94,Jamal,Blackman,LAFC,GK,"$360,000.00","$409,333.00",Jamal Blackman
+95,Tristan,Blackmon,LAFC,D,"$193,000.00","$203,000.00",Tristan Blackmon
+96,Andre,Blake,Philadelphia Union,GK,"$600,000.00","$650,000.00",Andre Blake
+97,Sebastian,Blanco,Portland Timbers,M-F,"$2,200,000.00","$2,313,333.00",Sebastian Blanco
+98,Latif,Blessing,LAFC,M,"$360,000.00","$376,667.00",Latif Blessing
+99,Emmanuel,Boateng,New England Revolution,M,"$200,000.00","$200,000.00",Emmanuel Boateng
+100,Blake,Bodily,Portland Timbers,M,"$67,360.00","$67,360.00",Blake Bodily
+101,Isaac,Boehmer,Vancouver Whitecaps,GK,"$66,724.00","$66,724.00",Isaac Boehmer
+102,Jovanny,Bolivar,DC United,F,"$81,375.00","$81,375.00",Jovanny Bolivar
+103,Jonathan,Bond,LA Galaxy,GK,"$450,000.00","$501,875.00",Jonathan Bond
+104,Pablo,Bonilla,Portland Timbers,D,"$85,444.00","$85,444.00",Pablo Bonilla
+105,Alex,Bono,Toronto FC,GK,"$450,000.00","$482,000.00",Alex Bono
+106,Jonathan,Bornstein,Chicago Fire,D,"$300,000.00","$323,200.00",Jonathan Bornstein
+107,Gustavo,Bou,New England Revolution,M-F,"$2,120,000.00","$2,120,000.00",Gustavo Bou
+108,Michael,Boxall,Minnesota United,D,"$384,000.00","$422,400.00",Michael Boxall
+109,Michael,Bradley,Toronto FC,M,"$1,500,000.00","$1,500,000.00",Michael Bradley
+110,Chris,Brady,Chicago Fire,GK,"$66,724.00","$68,624.00",Chris Brady
+111,Zachary,Brault-Guillard,Montreal,D,"$170,000.00","$203,625.00",Zachary Brault-Guillard
+112,Claudio,Bravo,Portland Timbers,D,"$300,000.00","$323,310.00",Claudio Bravo
+113,Matheus,Bressan,FC Dallas,D,"$536,000.00","$582,340.00",Matheus Bressan
+114,Sebastian,Breza,Montreal,GK,"$63,547.00","$63,547.00",Sebastian Breza
+115,Frederic,Brillant,DC United,D,"$300,000.00","$315,000.00",Frederic Brillant
+116,Andrew,Brody,Real Salt Lake,M,"$81,375.00","$85,208.00",Andrew Brody
+117,Brandt,Bronico,Charlotte FC,M,"$81,375.00","$90,705.00",Brandt Bronico
+118,Javain,Brown,Vancouver Whitecaps,D,"$63,547.00","$63,547.00",Javain Brown
+119,Will,Bruin,Seattle Sounders FC,F,"$450,000.00","$458,333.00",Will Bruin
+120,Tajon,Buchanan,New England Revolution,F,"$110,000.00","$121,000.00",Tajon Buchanan
+121,Jesus,Bueno,Philadelphia Union,M,"$81,375.00","$96,753.00",Jesus Bueno
+122,Adam,Buksa,New England Revolution,F,"$1,000,000.00","$1,106,250.00",Adam Buksa
+123,Teal,Bunbury,New England Revolution,M-F,"$375,000.00","$391,667.00",Teal Bunbury
+124,Nkosi,Burgess,FC Dallas,D,"$66,724.00","$66,724.00",Nkosi Burgess
+125,Cory,Burke,Philadelphia Union,F,"$350,000.00","$400,770.00",Cory Burke
+126,Evan,Bush,Columbus Crew,GK,"$376,000.00","$438,667.00",Evan Bush
+127,Handwalla,Bwana,Nashville SC,F-M,"$85,444.00","$85,444.00",Handwalla Bwana
+128,Brandon,Bye,New England Revolution,D,"$170,000.00","$178,875.00",Brandon Bye
+129,Kevin,Cabral,LA Galaxy,F,"$1,440,000.00","$1,440,000.00",Kevin Cabral
+130,Jhonder,Cadiz,Nashville SC,F,"$855,000.00","$1,023,800.00",Jhonder Cadiz
+131,Luis,Caicedo,New England Revolution,M,"$350,000.00","$350,000.00",Luis Caicedo
+132,Deiber,Caicedo,Vancouver Whitecaps,M-F,"$300,000.00","$331,125.00",Deiber Caicedo
+133,Scott,Caldwell,New England Revolution,M,"$205,000.00","$215,896.00",Scott Caldwell
+134,Drake,Callender,Inter Miami,GK,"$120,000.00","$120,000.00",Drake Callender
+135,Alexander,Callens,New York City FC,D,"$700,000.00","$764,000.00",Alexander Callens
+136,Eric,Calvillo,San Jose Earthquakes,M,"$170,000.00","$188,000.00",Eric Calvillo
+137,Francisco,Calvo,Chicago Fire,D,"$830,000.00","$902,600.00",Francisco Calvo
+138,Rudy,Camacho,Montreal,D,"$800,000.00","$851,653.00",Rudy Camacho
+139,Geoff,Cameron,FC Cincinnati,D,"$336,000.00","$389,667.00",Geoff Cameron
+140,Matteo,Campagna,Vancouver Whitecaps,D-M,"$63,547.00","$72,559.00",Matteo Campagna
+141,George,Campbell,Atlanta United,D,"$80,000.00","$80,000.00",George Campbell
+142,Russell,Canouse,DC United,M,"$500,000.00","$500,000.00",Russell Canouse
+143,Nathan,Cardoso,San Jose Earthquakes,D,"$600,000.00","$641,250.00",Nathan Cardoso
+144,Wikelman,Carmona,New York Red Bulls,M,"$63,547.00","$66,297.00",Wikelman Carmona
+145,Julian,Carranza,Inter Miami,F,"$750,000.00","$750,000.00",Julian Carranza
+146,Adalberto,Carraquilla,Houston Dynamo,M,"$418,908.00","$469,132.00",Adalberto Carraquilla
+147,Javier,Casas,Chicago Fire,M,"$66,724.00","$68,624.00",Javier Casas
+148,Julio,Cascante,Austin FC,D,"$290,000.00","$317,500.00",Julio Cascante
+149,Cristian,Casseres,New York Red Bulls,M,"$205,000.00","$249,000.00",Cristian Casseres
+150,Dylan,Castanheira,Inter Miami,GK,"$81,375.00","$81,375.00",Dylan Castanheira
+151,Robert,Castellanos,Nashville SC,D,"$63,547.00","$63,547.00",Robert Castellanos
+152,Valentin,Castellanos,New York City FC,M,"$600,000.00","$776,000.00",Valentin Castellanos
+153,Juan,Castilla,Houston Dynamo,M,"$63,547.00","$77,897.00",Juan Castilla
+154,Edgar,Castillo,FC Cincinnati,D,"$121,000.00","$127,019.00",Edgar Castillo
+155,Lucas,Cavallini,Vancouver Whitecaps,F,"$1,100,000.00","$1,362,500.00",Lucas Cavallini
+156,Darwin,Ceren,Houston Dynamo,M,"$195,500.00","$245,500.00",Darwin Ceren
+157,Edwin,Cerrillo,FC Dallas,M,"$95,000.00","$110,000.00",Edwin Cerrillo
+158,Thomas,Chacon,Minnesota United,M-F,"$420,000.00","$432,000.00",Thomas Chacon
+159,Maikel,Chang,Real Salt Lake,M,"$85,444.00","$85,444.00",Maikel Chang
+160,Maxime,Chanot,New York City FC,D,"$785,000.00","$785,000.00",Maxime Chanot
+161,Jay,Chapman,Inter Miami,M,"$167,500.00","$180,333.00",Jay Chapman
+162,Diego,Chara,Portland Timbers,M,"$650,000.00","$668,750.00",Diego Chara
+163,Yimmi,Chara,Portland Timbers,M,"$1,200,000.00","$1,503,000.00",Yimmi Chara
+164,Justin,Che,FC Dallas,D,"$80,000.00","$89,209.00",Justin Che
+165,Mathieu,Choiniere,Montreal,M,"$105,000.00","$114,238.00",Mathieu Choiniere
+166,Machop,Chol,Atlanta United,M,"$63,547.00","$63,547.00",Machop Chol
+167,Leonardo,Chu,Seattle Sounders FC,M-F,"$540,000.00","$540,000.00",Leonardo Chu
+168,Jose,Cifuentes,LAFC,M,"$367,875.00","$411,750.00",Jose Cifuentes
+169,Osvaldo,Cisneros,Sporting Kansas City,F,"$63,547.00","$66,547.00",Osvaldo Cisneros
+170,Abdoulaye,Cissoko,Seattle Sounders FC,D,"$63,547.00","$63,547.00",Abdoulaye Cissoko
+171,Caden,Clark,New York Red Bulls,M,"$106,773.00","$143,973.00",Caden Clark
+172,Steve,Clark,Portland Timbers,GK,"$250,000.00","$250,000.00",Steve Clark
+173,Stefan,Cleveland,Seattle Sounders FC,GK,"$96,375.00","$96,375.00",Stefan Cleveland
+174,Elliot,Collier,Chicago Fire,M,"$101,375.00","$101,375.00",Elliot Collier
+175,Aurelien,Collin,Philadelphia Union,D,"$81,375.00","$81,375.00",Aurelien Collin
+176,Simon,Colyn,Vancouver Whitecaps,M,"$81,375.00","$81,375.00",Simon Colyn
+177,Jackson,Conway,Atlanta United,F,"$63,547.00","$63,547.00",Jackson Conway
+178,Derek,Cornelius,Vancouver Whitecaps,D,"$127,050.00","$127,050.00",Derek Cornelius
+179,Joe,Corona,Houston Dynamo,M,"$275,000.00","$290,000.00",Joe Corona
+180,Carlos Miguel,Coronel,New York Red Bulls,GK,"$462,996.00","$512,656.00",Carlos Miguel Coronel
+181,Sega,Coulibaly,LA Galaxy,D,"$300,000.00","$337,000.00",Sega Coulibaly
+182,Cade,Cowell,San Jose Earthquakes,F,"$120,000.00","$130,000.00",Cade Cowell
+183,Brandan,Craig,Philadelphia Union,M,"$65,000.00","$77,825.00",Brandan Craig
+184,Maxime,Crepeau,Vancouver Whitecaps,GK,"$250,000.00","$277,500.00",Maxime Crepeau
+185,Daniel,Crisostomo,LAFC,M,"$63,547.00","$63,547.00",Daniel Crisostomo
+186,Cody,Cropper,Major League Soccer,GK,"$81,375.00","$84,427.00",Cody Cropper
+187,Allan,Cruz,FC Cincinnati,M,"$1,020,000.00","$1,134,000.00",Allan Cruz
+188,Antonio Carlos,Cunha,Orlando City SC,D,"$840,000.00","$865,000.00",Antonio Carlos Cunha
+189,Cristian,Dajome,Vancouver Whitecaps,F,"$400,000.00","$447,917.00",Cristian Dajome
+190,Jurgen,Damm,Atlanta United,M,"$1,290,000.00","$1,582,509.00",Jurgen Damm
+191,Abu,Danladi,Nashville SC,F,"$180,000.00","$237,000.00",Abu Danladi
+192,Toni,Datkovic,Real Salt Lake,D,"$420,000.00","$468,175.00",Toni Datkovic
+193,Sean,Davis,New York Red Bulls,M,"$375,000.00","$402,500.00",Sean Davis
+194,Bode,Davis,Real Salt Lake,M-F,"$63,547.00","$67,841.00",Bode Davis
+195,Jacob,Davis,Sporting Kansas City,M,"$63,547.00","$63,547.00",Jacob Davis
+196,Ocimar,De Almeida,Orlando City SC,M,"$700,000.00","$730,000.00",Ocimar De Almeida
+197,Thiago,De Andrade,New York City FC,F,"$180,000.00","$199,600.00",Thiago De Andrade
+198,Alex,De John,Atlanta United,D,"$81,375.00","$81,375.00",Alex De John
+199,Gregore,De Magalhaes Silva,Inter Miami,M,"$550,000.00","$651,000.00",Gregore De Magalhaes Silva
+200,Jack,De Vries,Philadelphia Union,M,"$120,000.00","$135,556.00",Jack De Vries
+201,AJ,DeLaGarza,New England Revolution,D-M,"$250,000.00","$250,000.00",AJ DeLaGarza
+202,Jordy,Delem,Seattle Sounders FC,M-D,"$175,000.00","$194,000.00",Jordy Delem
+203,Nick,DeLeon,Toronto FC,D-M,"$247,500.00","$263,242.00",Nick DeLeon
+204,"Marco ""Marky""",Delgado,Toronto FC,M,"$500,000.00","$581,250.00","Marco ""Marky"" Delgado"
+205,Nick,DePuy,LA Galaxy,D,"$81,375.00","$81,375.00",Nick DePuy
+206,Michael,Deshields,DC United,D,"$81,375.00","$81,375.00",Michael Deshields
+207,Jeffrey,Dewsnup,Real Salt Lake,GK,"$63,547.00","$73,372.00",Jeffrey Dewsnup
+208,Joseph,Dezart,Orlando City SC,M,"$66,724.00","$66,724.00",Joseph Dezart
+209,Amadou,Dia,Sporting Kansas City,D,"$135,000.00","$135,000.00",Amadou Dia
+210,Youba,Diarra,New York Red Bulls,M,"$337,000.00","$398,046.00",Youba Diarra
+211,Luis,Diaz,Columbus Crew,M,"$350,004.00","$383,904.00",Luis Diaz
+212,Bakaye,Dibassy,Minnesota United,D,"$625,000.00","$718,125.00",Bakaye Dibassy
+213,Eric,Dick,Columbus Crew,GK,"$85,444.00","$85,444.00",Eric Dick
+214,Daryl,Dike,Orlando City SC,F,"$100,000.00","$128,750.00",Daryl Dike
+215,Moussa,Djitte,Austin FC,F,"$500,000.00","$500,000.00",Moussa Djitte
+216,Ethan,Dobbelaere,Seattle Sounders FC,M,"$67,360.00","$81,360.00",Ethan Dobbelaere
+217,Derek,Dodson,Orlando City SC,F,"$63,547.00","$63,547.00",Derek Dodson
+218,Cecilio,Dominguez,Austin FC,F,"$1,530,000.00","$1,736,000.00",Cecilio Dominguez
+219,Irakoze,Donasiyano,Nashville SC,M-D,"$63,547.00","$63,547.00",Irakoze Donasiyano
+220,Griffin,Dorsey,Houston Dynamo,D,"$110,000.00","$129,000.00",Griffin Dorsey
+221,Jonathan,dos Santos,LA Galaxy,M,"$2,000,000.00","$2,000,000.00",Jonathan dos Santos
+222,Hassani,Dotson,Minnesota United,M-D,"$81,375.00","$81,375.00",Hassani Dotson
+223,Issiar,Drame,New York Red Bulls,D,"$81,375.00","$97,158.00",Issiar Drame
+224,Sebastian,Driussi,Austin FC,F,"$2,571,420.00","$2,688,420.00",Sebastian Driussi
+225,Erik,Duenas,LAFC,D,"$90,444.00","$92,444.00",Erik Duenas
+226,Bryce,Duke,LAFC,M,"$90,000.00","$90,000.00",Bryce Duke
+227,Cameron,Duke,Sporting Kansas City,M,"$81,375.00","$84,375.00",Cameron Duke
+228,Cameron,Dunbar,LA Galaxy,F,"$100,000.00","$116,750.00",Cameron Dunbar
+229,Kyle,Duncan,New York Red Bulls,D,"$93,581.00","$93,581.00",Kyle Duncan
+230,Julian,Dunn,Toronto FC,D,"$85,444.00","$85,444.00",Julian Dunn
+231,Chris,Duvall,FC Cincinnati,D,"$81,375.00","$81,375.00",Chris Duvall
+232,Dom,Dwyer,Toronto FC,F,"$81,375.00","$81,375.00",Dom Dwyer
+233,Jeremy,Ebobisse,San Jose Earthquakes,F,"$600,000.00","$691,250.00",Jeremy Ebobisse
+234,Michael,Edwards,Colorado Rapids,D,"$81,375.00","$81,375.00",Michael Edwards
+235,Raheem,Edwards,LAFC,D-M,"$96,375.00","$96,375.00",Raheem Edwards
+236,Earl,Edwards,New England Revolution,GK,"$81,375.00","$81,375.00",Earl Edwards
+237,Tom,Edwards,New York Red Bulls,D-M,"$409,911.00","$409,911.00",Tom Edwards
+238,Mandela,Egbo,New York Red Bulls,D,"$276,000.00","$310,700.00",Mandela Egbo
+239,David,Egbo,Vancouver Whitecaps,F,"$63,547.00","$63,547.00",David Egbo
+240,Jack,Elliott,Philadelphia Union,D,"$325,000.00","$340,000.00",Jack Elliott
+241,Kalil,Elmedkhar,FC Dallas,D,"$63,547.00","$63,547.00",Kalil Elmedkhar
+242,Fred,Emmings,Minnesota United,GK,"$66,724.00","$72,724.00",Fred Emmings
+243,Tsubasa,Endoh,Toronto FC,M,"$100,000.00","$105,333.00",Tsubasa Endoh
+244,Franco,Escobar,Atlanta United,D,"$450,000.00","$450,000.00",Franco Escobar
+245,Adam,Esparza-Saldana,LA Galaxy,M,"$81,375.00","$87,309.00",Adam Esparza-Saldana
+246,Jhon,Espinoza,Chicago Fire,D,"$162,000.00","$188,500.00",Jhon Espinoza
+247,Cristian,Espinoza,San Jose Earthquakes,F,"$1,150,000.00","$1,265,000.00",Cristian Espinoza
+248,Roger,Espinoza,Sporting Kansas City,M,"$500,000.00","$500,000.00",Roger Espinoza
+249,Lucas,Esteves,Colorado Rapids,D,"$369,996.00","$412,467.00",Lucas Esteves
+250,Bento,Estrela,New York Red Bulls,M,"$63,547.00","$87,547.00",Bento Estrela
+251,Derrick,Etienne,Columbus Crew,M,"$125,000.00","$125,000.00",Derrick Etienne
+252,Gianfranco,Facchineri,Vancouver Whitecaps,D,"$66,724.00","$68,724.00",Gianfranco Facchineri
+253,Diego,Fagundez,Austin FC,M,"$400,000.00","$400,000.00",Diego Fagundez
+254,Mamadou,Fall,LAFC,D-M,"$81,375.00","$94,125.00",Mamadou Fall
+255,Marco,Farfan,LAFC,D,"$190,000.00","$190,000.00",Marco Farfan
+256,Zackery,Farnsworth,Real Salt Lake,D,"$81,375.00","$96,125.00",Zackery Farnsworth
+257,Andrew,Farrell,New England Revolution,D,"$400,000.00","$418,750.00",Andrew Farrell
+258,Keesean,Ferdinand,Montreal,,"$63,547.00","$73,592.00",Keesean Ferdinand
+259,Marcus,Ferkranus,LA Galaxy,D,"$90,000.00","$103,625.00",Marcus Ferkranus
+260,Omir,Fernandez,New York Red Bulls,M,"$115,000.00","$130,000.00",Omir Fernandez
+261,Jesus,Ferreira,FC Dallas,F,"$550,000.00","$550,000.00",Jesus Ferreira
+262,Carlos,Fierro,San Jose Earthquakes,F,"$850,000.00","$908,800.00",Carlos Fierro
+263,Jorge,Figal,Inter Miami,D,"$600,000.00","$630,000.00",Jorge Figal
+264,Maynor,Figueroa,Houston Dynamo,D,"$150,000.00","$157,688.00",Maynor Figueroa
+265,Stuart,Findlay,Philadelphia Union,D,"$425,000.00","$425,000.00",Stuart Findlay
+266,Ethan,Finlay,Minnesota United,M,"$450,000.00","$450,000.00",Ethan Finlay
+267,Oniel,Fisher,LA Galaxy,D,"$140,000.00","$147,625.00",Oniel Fisher
+268,Jonas,Fjeldberg,FC Cincinnati,,"$63,547.00","$63,547.00",Jonas Fjeldberg
+269,Leon,Flach,Philadelphia Union,M,"$210,000.00","$223,750.00",Leon Flach
+270,Avionne,Flanagan,FC Cincinnati,D,"$63,547.00","$63,547.00",Avionne Flanagan
+271,Edison,Flores,DC United,M-F,"$1,600,000.00","$1,733,000.00",Edison Flores
+272,George,Fochive,Portland Timbers,M,"$240,000.00","$240,000.00",George Fochive
+273,Anthony,Fontana,Philadelphia Union,M,"$100,008.00","$108,426.00",Anthony Fontana
+274,Andreu,Fontas,Sporting Kansas City,D,"$1,125,000.00","$1,125,000.00",Andreu Fontas
+275,Kortne,Ford,Colorado Rapids,D,"$140,000.00","$140,000.00",Kortne Ford
+276,Franco,Fragapane,Minnesota United,M-F,"$135,000.00","$142,500.00",Franco Fragapane
+277,Waylon,Francis,Columbus Crew,D,"$220,000.00","$230,000.00",Waylon Francis
+278,Alan,Franco,Atlanta United,D,"$378,000.00","$505,500.00",Alan Franco
+279,Liam,Fraser,Columbus Crew,M,"$89,513.00","$94,513.00",Liam Fraser
+280,Ian,Fray,Inter Miami,D,"$63,547.00","$63,547.00",Ian Fray
+281,Tyler,Freeman,Sporting Kansas City,F,"$95,000.00","$97,500.00",Tyler Freeman
+282,Matt,Freese,Philadelphia Union,GK,"$96,750.00","$115,500.00",Matt Freese
+283,Stefan,Frei,Seattle Sounders FC,GK,"$500,000.00","$500,000.00",Stefan Frei
+284,Alejandro,Fuenmayor,Houston Dynamo,D,"$190,008.00","$217,508.00",Alejandro Fuenmayor
+285,Gilbert,Fuentes,San Jose Earthquakes,M,"$160,000.00","$178,750.00",Gilbert Fuentes
+286,McKinze,Gaines,Austin FC,F,"$81,375.00","$84,125.00",McKinze Gaines
+287,Julian,Gaines,LAFC,D,"$81,375.00","$83,375.00",Julian Gaines
+288,Jon,Gallagher,Austin FC,F,"$81,375.00","$81,375.00",Jon Gallagher
+289,Erickson,Gallardo,Toronto FC,M,"$300,000.00","$331,913.00",Erickson Gallardo
+290,Pedro,Gallese,Orlando City SC,GK,"$410,000.00","$410,000.00",Pedro Gallese
+291,Braian,Galvan,Colorado Rapids,F,"$160,000.00","$252,375.00",Braian Galvan
+292,Oscar Boniek,Garcia,Houston Dynamo,M,"$81,375.00","$81,375.00",Oscar Boniek Garcia
+293,Chris,Garcia,Real Salt Lake,F,"$85,444.00","$89,744.00",Chris Garcia
+294,Bruno,Gaspar,Vancouver Whitecaps,D,"$200,000.00","$233,333.00",Bruno Gaspar
+295,Chase,Gasper,Minnesota United,D,"$81,375.00","$81,375.00",Chase Gasper
+296,Ryan,Gauld,Vancouver Whitecaps,M,"$1,920,000.00","$2,025,000.00",Ryan Gauld
+297,Daniel,Gazdag,Philadelphia Union,M-F,"$300,000.00","$336,250.00",Daniel Gazdag
+298,Kieran,Gibbs,Inter Miami,D,"$120,000.00","$128,167.00",Kieran Gibbs
+299,Carles,Gil,New England Revolution,M,"$2,750,000.00","$3,045,833.00",Carles Gil
+300,Gaston,Gimenez,Chicago Fire,M,"$2,058,000.00","$2,358,667.00",Gaston Gimenez
+301,Francisco,Ginella,LAFC,M,"$425,000.00","$547,250.00",Francisco Ginella
+302,Tomas,Giraldo,Montreal,M,"$66,724.00","$75,481.00",Tomas Giraldo
+303,Justen,Glad,Real Salt Lake,D,"$600,000.00","$660,031.00",Justen Glad
+304,Jakob,Glesnes,Philadelphia Union,D,"$425,000.00","$448,125.00",Jakob Glesnes
+305,Christopher,Gloster,New York City FC,D,"$197,000.00","$207,000.00",Christopher Gloster
+306,Marcus,Godinho,Vancouver Whitecaps,D,"$81,375.00","$84,375.00",Marcus Godinho
+307,Anibal,Godoy,Nashville SC,M,"$700,000.00","$771,667.00",Anibal Godoy
+308,Erik,Godoy,Vancouver Whitecaps,D,"$450,000.00","$450,000.00",Erik Godoy
+309,Caiser Sergio,Gomes,FC Dallas,D,"$81,375.00","$81,375.00",Caiser Sergio Gomes
+310,Fabio,Gomes,New York Red Bulls,F,"$380,000.00","$401,400.00",Fabio Gomes
+311,Yeimar,Gomez Andrade,Seattle Sounders FC,D,"$300,000.00","$387,000.00",Yeimar Gomez Andrade
+312,Giancarlo,Gonzalez,LA Galaxy,D,"$850,000.00","$850,000.00",Giancarlo Gonzalez
+313,Jorge,Gonzalez,Portland Timbers,M,"$63,547.00","$63,547.00",Jorge Gonzalez
+314,Omar,Gonzalez,Toronto FC,D,"$780,000.00","$1,055,936.00",Omar Gonzalez
+315,Leandro,Gonzalez Pirez,Inter Miami,D,"$849,996.00","$1,010,246.00",Leandro Gonzalez Pirez
+316,Samuel,Grandsir,LA Galaxy,F-M,"$850,000.00","$938,427.00",Samuel Grandsir
+317,Tayvon,Gray,New York City FC,D,"$95,000.00","$114,788.00",Tayvon Gray
+318,Jacob,Greene,DC United,D-M,"$63,547.00","$66,547.00",Jacob Greene
+319,Jan,Gregus,Minnesota United,M,"$750,000.00","$883,500.00",Jan Gregus
+320,Julian,Gressel,DC United,M,"$705,000.00","$760,781.00",Julian Gressel
+321,Adam,Grinwis,Orlando City SC,GK,"$81,375.00","$81,375.00",Adam Grinwis
+322,Sami,Guediri,Inter Miami,D,"$63,547.00","$63,547.00",Sami Guediri
+323,Brian,Gutierrez,Chicago Fire,M,"$66,724.00","$68,624.00",Brian Gutierrez
+324,Cristian,Gutierrez,Vancouver Whitecaps,D,"$150,000.00","$167,500.00",Cristian Gutierrez
+325,Andrew,Gutman,New York Red Bulls,D,"$275,000.00","$306,250.00",Andrew Gutman
+326,Brad,Guzan,Atlanta United,GK,"$805,000.00","$805,000.00",Brad Guzan
+327,Joe,Gyau,FC Cincinnati,D,"$273,000.00","$273,000.00",Joe Gyau
+328,Justin,Haak,New York City FC,M,"$81,375.00","$81,375.00",Justin Haak
+329,Luke,Haakenson,Nashville SC,M,"$66,724.00","$66,724.00",Luke Haakenson
+330,Kamron,Habibullah,Vancouver Whitecaps,M-F,"$63,547.00","$74,429.00",Kamron Habibullah
+331,Teenage,Hadebe,Houston Dynamo,D,"$960,000.00","$1,125,177.00",Teenage Hadebe
+332,Nick,Hagglund,FC Cincinnati,D,"$175,000.00","$184,375.00",Nick Hagglund
+333,Marlon,Hairston,Columbus Crew,M-D,"$81,375.00","$81,375.00",Marlon Hairston
+334,Siad,Haji,San Jose Earthquakes,F,"$95,000.00","$104,000.00",Siad Haji
+335,Michael,Halliday,Orlando City SC,D,"$85,444.00","$95,089.00",Michael Halliday
+336,Bret,Halsey,Real Salt Lake,D,"$81,375.00","$88,875.00",Bret Halsey
+337,Nicholas,Hamalainen,LA Galaxy,D-M,"$612,500.00","$612,500.00",Nicholas Hamalainen
+338,Ahmed,Hamdi,Montreal,M,"$400,000.00","$497,500.00",Ahmed Hamdi
+339,Bill,Hamid,DC United,GK,"$500,000.00","$500,000.00",Bill Hamid
+340,Niko,Hansen,Minnesota United,M,"$110,004.00","$129,004.00",Niko Hansen
+341,Cameron,Harper,New York Red Bulls,M-F,"$200,000.00","$251,250.00",Cameron Harper
+342,Nathan,Harriel,Philadelphia Union,D,"$70,000.00","$87,500.00",Nathan Harriel
+343,Calvin,Harris,FC Cincinnati,F,"$81,375.00","$96,375.00",Calvin Harris
+344,Wilson,Harris,Sporting Kansas City,F,"$67,360.00","$71,212.00",Wilson Harris
+345,Carlos Miguel,Harvey,LA Galaxy,D-M,"$81,375.00","$81,375.00",Carlos Miguel Harvey
+346,Jordan,Harvey,LAFC,D,"$110,000.00","$110,000.00",Jordan Harvey
+347,Thomas,Hasal,Vancouver Whitecaps,GK,"$81,375.00","$81,375.00",Thomas Hasal
+348,Jacori,Hayes,Minnesota United,M,"$160,000.00","$169,833.00",Jacori Hayes
+349,Matt,Hedges,FC Dallas,D,"$850,000.00","$850,000.00",Matt Hedges
+350,Fabian,Herbers,Chicago Fire,M,"$230,000.00","$251,250.00",Fabian Herbers
+351,Ronald,Hernandez,Atlanta United,D,"$250,000.00","$250,000.00",Ronald Hernandez
+352,Dominick,Hernandez,FC Dallas,M,"$63,547.00","$73,237.00",Dominick Hernandez
+353,Javier,Hernandez,LA Galaxy,F,"$6,000,000.00","$6,000,000.00",Javier Hernandez
+354,Felipe,Hernandez,Sporting Kansas City,M,"$81,375.00","$81,375.00",Felipe Hernandez
+355,Aaron,Herrera,Real Salt Lake,D,"$315,000.00","$343,794.00",Aaron Herrera
+356,Federico,Higuain,Inter Miami,M-F,"$81,375.00","$81,375.00",Federico Higuain
+357,Gonzalo,Higuain,Inter Miami,F,"$5,100,000.00","$5,793,750.00",Gonzalo Higuain
+358,Nick,Hinds,Nashville SC,D,"$63,547.00","$63,547.00",Nick Hinds
+359,Brendan,Hines-Ike,DC United,D,"$240,000.00","$274,429.00",Brendan Hines-Ike
+360,Danny,Hoesen,Austin FC,F,"$650,000.00","$716,667.00",Danny Hoesen
+361,Ian,Hoffmann,Houston Dynamo,D,"$63,547.00","$63,547.00",Ian Hoffmann
+362,Ryan,Hollingshead,FC Dallas,D,"$346,500.00","$346,500.00",Ryan Hollingshead
+363,Erik,Holt,Real Salt Lake,D,"$90,000.00","$90,000.00",Erik Holt
+364,Rio,Hope-Gund,Orlando City SC,D,"$63,547.00","$63,547.00",Rio Hope-Gund
+365,Shandon,Hopeau,Seattle Sounders FC,M,"$66,724.00","$74,360.00",Shandon Hopeau
+366,Matt,Hundley,Colorado Rapids,F,"$95,000.00","$104,000.00",Matt Hundley
+367,Adrien,Hunou,Minnesota United,F,"$2,350,000.00","$2,587,702.00",Adrien Hunou
+368,Erik,Hurtado,Columbus Crew,F,"$218,182.00","$245,682.00",Erik Hurtado
+369,Emerson,Hyndman,Atlanta United,M,"$900,000.00","$900,000.00",Emerson Hyndman
+370,Franco,Ibarra,Atlanta United,D-M,"$300,000.00","$370,000.00",Franco Ibarra
+371,Sebastien,Ibeagha,LAFC,D,"$150,000.00","$177,125.00",Sebastien Ibeagha
+372,Sunusi,Ibrahim,Montreal,F,"$200,000.00","$291,250.00",Sunusi Ibrahim
+373,Milan,Iloski,Real Salt Lake,F,"$120,000.00","$121,500.00",Milan Iloski
+374,Clint,Irwin,Colorado Rapids,GK,"$190,000.00","$203,300.00",Clint Irwin
+375,Nicolas,Isimat-Mirin,Sporting Kansas City,D,"$950,000.00","$1,028,124.00",Nicolas Isimat-Mirin
+376,Aljaz,Ivacic,Portland Timbers,GK,"$225,000.00","$235,000.00",Aljaz Ivacic
+377,Stanislav,Ivanov,Chicago Fire,M,"$275,000.00","$334,000.00",Stanislav Ivanov
+378,Aziel,Jackson,Minnesota United,M-F,"$63,547.00","$67,444.00",Aziel Jackson
+379,Adam,Jahn,Major League Soccer,F,"$125,000.00","$134,000.00",Adam Jahn
+380,Robin,Jansson,Orlando City SC,D,"$500,000.00","$556,250.00",Robin Jansson
+381,Franco,Jara,FC Dallas,F,"$2,290,000.00","$2,977,000.00",Franco Jara
+382,Andres,Jasson,New York City FC,M,"$63,547.00","$80,691.00",Andres Jasson
+383,Assi,Jean-Aniel,Montreal,,"$63,547.00","$71,310.00",Assi Jean-Aniel
+384,Cal,Jennings,LAFC,F,"$81,375.00","$81,375.00",Cal Jennings
+385,David,Jensen,New York Red Bulls,GK,"$324,996.00","$364,631.00",David Jensen
+386,Hector,Jimenez,Austin FC,D,"$250,000.00","$250,000.00",Hector Jimenez
+387,Bjorn,Johnsen,Montreal,F,"$900,000.00","$1,036,667.00",Bjorn Johnsen
+388,Sean,Johnson,New York City FC,GK,"$510,000.00","$510,000.00",Sean Johnson
+389,Alistair,Johnston,Nashville SC,M-D,"$73,079.00","$73,079.00",Alistair Johnston
+390,Ismaila,Jome,Portland Timbers,D,"$81,375.00","$81,375.00",Ismaila Jome
+391,Derrick,Jones,Houston Dynamo,M,"$160,000.00","$182,969.00",Derrick Jones
+392,Joevin,Jones,Inter Miami,D-M,"$180,000.00","$278,100.00",Joevin Jones
+393,DeJuan,Jones,New England Revolution,D-M,"$95,000.00","$99,938.00",DeJuan Jones
+394,Mathias,Jorgensen,New York Red Bulls,F,"$325,000.00","$356,250.00",Mathias Jorgensen
+395,Dejan,Joveljic,LA Galaxy,F,"$612,500.00","$612,500.00",Dejan Joveljic
+396,Thomas,Judge,Nashville SC,D,"$63,547.00","$63,547.00",Thomas Judge
+397,Anderson,Julio,Real Salt Lake,F-M,"$402,000.00","$485,875.00",Anderson Julio
+398,Florian,Jungwirth,Vancouver Whitecaps,D-M,"$525,000.00","$567,667.00",Florian Jungwirth
+399,Sam,Junqua,Houston Dynamo,D,"$81,375.00","$81,375.00",Sam Junqua
+400,Brent,Kallman,Minnesota United,D,"$150,000.00","$158,125.00",Brent Kallman
+401,Ola,Kamara,DC United,F,"$400,000.00","$420,000.00",Ola Kamara
+402,Alec,Kann,Atlanta United,GK,"$115,000.00","$115,000.00",Alec Kann
+403,Johan,Kappelhof,Chicago Fire,D-M,"$462,500.00","$490,333.00",Johan Kappelhof
+404,Wilfrid,Kaptoum,New England Revolution,M,"$500,000.00","$557,500.00",Wilfrid Kaptoum
+405,Mark-Anthony,Kaye,Colorado Rapids,M,"$235,625.00","$247,188.00",Mark-Anthony Kaye
+406,Aboubacar,Keita,Columbus Crew,D,"$110,000.00","$110,000.00",Aboubacar Keita
+407,Jeremy,Kelly,Colorado Rapids,D,"$85,444.00","$85,444.00",Jeremy Kelly
+408,Jon,Kempin,DC United,GK,"$85,444.00","$85,444.00",Jon Kempin
+409,Henry,Kessler,New England Revolution,D,"$95,000.00","$115,000.00",Henry Kessler
+410,Jasser,Khmiri,Vancouver Whitecaps,D,"$240,000.00","$240,000.00",Jasser Khmiri
+411,Nabilai,Kibunguchy,Minnesota United,F,"$63,547.00","$63,547.00",Nabilai Kibunguchy
+412,Benjamin,Kikanovic,San Jose Earthquakes,F,"$63,547.00","$69,322.00",Benjamin Kikanovic
+413,Gadi,Kinda,Sporting Kansas City,M,"$850,000.00","$918,000.00",Gadi Kinda
+414,Perry,Kitchen,Columbus Crew,M,"$275,000.00","$301,667.00",Perry Kitchen
+415,Mustafa,Kizza,Montreal,D,"$150,000.00","$166,800.00",Mustafa Kizza
+416,Edward,Kizza,New England Revolution,F,"$63,547.00","$63,547.00",Edward Kizza
+417,Freddy,Kleeman,Austin FC,D,"$63,547.00","$63,547.00",Freddy Kleeman
+418,Patryk,Klimala,New York Red Bulls,F,"$1,000,000.00","$1,135,000.00",Patryk Klimala
+419,Jonathan,Klinsmann,LA Galaxy,GK,"$81,375.00","$81,375.00",Jonathan Klinsmann
+420,Sacha,Kljestan,LA Galaxy,M,"$247,350.00","$247,350.00",Sacha Kljestan
+421,Brad,Knighton,New England Revolution,GK,"$140,000.00","$146,750.00",Brad Knighton
+422,Zan,Kolmanic,Austin FC,D,"$225,000.00","$225,000.00",Zan Kolmanic
+423,Ismael,Koné,Montreal,M,"$63,547.00","$66,172.00",Ismael Koné
+424,Kai,Koreniuk,LA Galaxy,M-F,"$85,444.00","$85,444.00",Kai Koreniuk
+425,Damir,Kreilach,Real Salt Lake,M,"$1,200,000.00","$1,350,000.00",Damir Kreilach
+426,Kenneth,Kronholm,Chicago Fire,GK,"$569,000.00","$632,000.00",Kenneth Kronholm
+427,Yuya,Kubo,FC Cincinnati,M,"$1,091,000.00","$1,206,750.00",Yuya Kubo
+428,Matt,LaGrassa,Nashville SC,M,"$85,444.00","$85,444.00",Matt LaGrassa
+429,Matt,Lampson,Major League Soccer,GK,"$85,444.00","$85,444.00",Matt Lampson
+430,Lassi,Lappalainen,Montreal,M,"$383,657.00","$383,657.00",Lassi Lappalainen
+431,Oliver,Larraz,Colorado Rapids,M,"$63,547.00","$63,547.00",Oliver Larraz
+432,Richie,Laryea,Toronto FC,M,"$200,000.00","$226,953.00",Richie Laryea
+433,Ariel,Lassiter,Houston Dynamo,F,"$210,000.00","$230,280.00",Ariel Lassiter
+434,Vukashin,Latinovich,New York City FC,D,"$63,547.00","$63,547.00",Vukashin Latinovich
+435,Kemar,Lawrence,Toronto FC,D,"$258,000.00","$340,500.00",Kemar Lawrence
+436,Randall,Leal,Nashville SC,F-M,"$420,000.00","$477,750.00",Randall Leal
+437,Kelvin,Leerdam,Inter Miami,D,"$180,000.00","$297,625.00",Kelvin Leerdam
+438,Nico,Lemoine,Houston Dynamo,F,"$66,724.00","$66,724.00",Nico Lemoine
+439,Brooks,Lennon,Atlanta United,D,"$375,000.00","$375,000.00",Brooks Lennon
+440,Antonio,Leone,LAFC,D-M,"$81,375.00","$83,375.00",Antonio Leone
+441,Jonathan,Lewis,Colorado Rapids,F,"$410,000.00","$435,000.00",Jonathan Lewis
+442,Luca,Lewis,New York Red Bulls,GK,"$63,547.00","$67,147.00",Luca Lewis
+443,Danny,Leyva,Seattle Sounders FC,M,"$81,375.00","$100,798.00",Danny Leyva
+444,Grant,Lillard,Columbus Crew,D,"$125,000.00","$127,500.00",Grant Lillard
+445,Nick,Lima,Austin FC,D,"$350,000.00","$350,000.00",Nick Lima
+446,Artur,Lima,Columbus Crew,M,"$480,000.00","$531,633.00",Artur Lima
+447,Jaylin,Lindsey,Sporting Kansas City,D,"$91,547.00","$94,547.00",Jaylin Lindsey
+448,Sebastian,Lletget,LA Galaxy,M,"$800,000.00","$923,750.00",Sebastian Lletget
+449,Ake,Loba,Nashville SC,F,"$1,077,000.00","$1,318,475.00",Ake Loba
+450,Robin,Lod,Minnesota United,M-F,"$849,996.00","$952,496.00",Robin Lod
+451,Nicolas,Lodeiro,Seattle Sounders FC,M,"$2,120,000.00","$2,736,667.00",Nicolas Lodeiro
+452,David,Loera,Orlando City SC,M,"$100,000.00","$102,500.00",David Loera
+453,Aaron,Long,New York Red Bulls,D,"$895,000.00","$925,000.00",Aaron Long
+454,Eric,Lopez,LA Galaxy,GK,"$81,375.00","$81,375.00",Eric Lopez
+455,Marcos,Lopez,San Jose Earthquakes,D,"$330,000.00","$370,250.00",Marcos Lopez
+456,Javier,Lopez Ramirez,San Jose Earthquakes,F,"$860,000.00","$860,000.00",Javier Lopez Ramirez
+457,Erik,Lopez Samaniego,Atlanta United,F,"$340,000.00","$508,300.00",Erik Lopez Samaniego
+458,Marvin,Loría,Portland Timbers,M,"$81,375.00","$81,375.00",Marvin Loría
+459,Daniel,Lovitz,Nashville SC,D,"$385,000.00","$415,556.00",Daniel Lovitz
+460,Everton,Luiz,Real Salt Lake,M,"$1,160,000.00","$1,260,000.00",Everton Luiz
+461,Ben,Lundgaard,Atlanta United,GK,"$81,375.00","$81,375.00",Ben Lundgaard
+462,Adam,Lundkvist,Houston Dynamo,D,"$325,000.00","$372,500.00",Adam Lundkvist
+463,Ben,Lundt,FC Cincinnati,GK,"$85,444.00","$87,019.00",Ben Lundt
+464,Jhegson Sebastián,Méndez,Orlando City SC,M,"$550,000.00","$586,750.00",Jhegson Sebastián Méndez
+465,Larrys,Mabiala,Portland Timbers,D,"$450,000.00","$450,000.00",Larrys Mabiala
+466,Emanuel,Maciel,Montreal,M,"$118,182.00","$129,811.00",Emanuel Maciel
+467,Lucas,Maciel Felix,New England Revolution,M,"$63,547.00","$63,547.00",Lucas Maciel Felix
+468,Zac,MacMath,Real Salt Lake,GK,"$200,000.00","$200,000.00",Zac MacMath
+469,Christian,Mafla,New England Revolution,D-M,"$400,000.00","$495,000.00",Christian Mafla
+470,Talles,Magno,New York City FC,F,"$950,000.00","$1,198,000.00",Talles Magno
+471,Jack,Maher,Nashville SC,D,"$115,000.00","$149,000.00",Jack Maher
+472,Christian,Makoun,Inter Miami,D-M,"$175,000.00","$175,000.00",Christian Makoun
+473,Kekuta,Manneh,Austin FC,F,"$81,375.00","$81,375.00",Kekuta Manneh
+474,JT,Marcinkowski,San Jose Earthquakes,GK,"$165,000.00","$177,000.00",JT Marcinkowski
+475,Anthony,"Marcucci, Jr.",New York Red Bulls,GK,"$63,547.00","$63,547.00","Anthony Marcucci, Jr."
+476,Marko,Maric,Houston Dynamo,GK,"$465,000.00","$513,250.00",Marko Maric
+477,Paul,Marie,San Jose Earthquakes,D,"$81,375.00","$87,908.00",Paul Marie
+478,Jahkeele,Marshall-Rutty,Toronto FC,F,"$100,000.00","$106,842.00",Jahkeele Marshall-Rutty
+479,Nick,Marsman,Inter Miami,GK,"$150,000.00","$262,188.00",Nick Marsman
+480,Josef,Martinez,Atlanta United,F,"$3,500,000.00","$3,891,667.00",Josef Martinez
+481,Jose Antonio,Martinez,FC Dallas,D,"$600,000.00","$673,000.00",Jose Antonio Martinez
+482,Jose Andres,Martinez,Philadelphia Union,M,"$225,000.00","$251,250.00",Jose Andres Martinez
+483,Doug,Martinez,Real Salt Lake,F,"$81,375.00","$81,375.00",Doug Martinez
+484,Felipe,Martins,DC United,M,"$150,000.00","$150,000.00",Felipe Martins
+485,Luis,Martins,Sporting Kansas City,D,"$340,000.00","$340,000.00",Luis Martins
+486,Emmanuel,Mas,Orlando City SC,D,"$252,000.00","$282,000.00",Emmanuel Mas
+487,Alexandru,Matan,Columbus Crew,M-F,"$375,000.00","$408,250.00",Alexandru Matan
+488,Ronald,Matarrita,FC Cincinnati,D,"$700,000.00","$756,875.00",Ronald Matarrita
+489,Blaise,Matuidi,Inter Miami,M,"$1,500,000.00","$1,500,000.00",Blaise Matuidi
+490,Jimmy,Maurer,FC Dallas,GK,"$250,000.00","$267,888.00",Jimmy Maurer
+491,Jose,Mauri,Sporting Kansas City,M,"$660,000.00","$660,000.00",Jose Mauri
+492,Chris,Mavinga,Toronto FC,D,"$850,000.00","$887,500.00",Chris Mavinga
+493,Philip,Mayaka,Colorado Rapids,M,"$81,375.00","$94,375.00",Philip Mayaka
+494,Olivier,Mbaizo,Philadelphia Union,D,"$89,513.00","$89,513.00",Olivier Mbaizo
+495,John,McCarthy,Inter Miami,GK,"$130,000.00","$136,583.00",John McCarthy
+496,Dax,McCarty,Nashville SC,M,"$725,000.00","$725,000.00",Dax McCarty
+497,Erik,McCue,Houston Dynamo,D,"$81,375.00","$81,375.00",Erik McCue
+498,Christian,McFarlane,New York City FC,D,"$63,547.00","$81,803.00",Christian McFarlane
+499,Jack,McGlynn,Philadelphia Union,M,"$64,992.00","$78,892.00",Jack McGlynn
+500,Zac,McGraw,Portland Timbers,D,"$66,724.00","$66,724.00",Zac McGraw
+501,Riley,Mcgree,Major League Soccer,M,"$170,000.00","$180,000.00",Riley Mcgree
+502,Kendall,McIntosh,Sporting Kansas City,GK,"$96,375.00","$96,375.00",Kendall McIntosh
+503,Justin,McMaster,Minnesota United,F,"$63,547.00","$63,547.00",Justin McMaster
+504,Thomas,McNamara,New England Revolution,M,"$225,000.00","$225,000.00",Thomas McNamara
+505,Ryan,Meara,New York Red Bulls,GK,"$270,000.00","$270,000.00",Ryan Meara
+506,Jesus,Medina,New York City FC,M,"$1,050,000.00","$1,170,833.00",Jesus Medina
+507,Alvaro,Medran,Chicago Fire,M,"$1,000,000.00","$1,055,000.00",Alvaro Medran
+508,Jimmy,Medranda,Seattle Sounders FC,M-D,"$180,000.00","$190,000.00",Jimmy Medranda
+509,Haris,Medunjanin,FC Cincinnati,M,"$570,000.00","$625,750.00",Haris Medunjanin
+510,Phelipe,Megiolaro,FC Dallas,GK,"$150,000.00","$176,250.00",Phelipe Megiolaro
+511,Tim,Melia,Sporting Kansas City,GK,"$500,000.00","$504,167.00",Tim Melia
+512,Jonathan,Menendez,Real Salt Lake,M-F,"$500,000.00","$602,813.00",Jonathan Menendez
+513,Jonathan,Mensah,Columbus Crew,D,"$1,000,000.00","$1,140,667.00",Jonathan Mensah
+514,Justin,Meram,Real Salt Lake,M,"$500,000.00","$500,000.00",Justin Meram
+515,Bryan,Meredith,Nashville SC,GK,"$81,375.00","$87,375.00",Bryan Meredith
+516,Romain,Metanire,Minnesota United,D,"$600,000.00","$699,250.00",Romain Metanire
+517,Patrick,Metcalfe,Vancouver Whitecaps,M,"$66,724.00","$66,724.00",Patrick Metcalfe
+518,Nicolas,Mezquida,Colorado Rapids,M,"$350,000.00","$380,000.00",Nicolas Mezquida
+519,Benji,Michel,Orlando City SC,F,"$109,250.00","$115,553.00",Benji Michel
+520,Djordje,Mihailovic,Montreal,M,"$600,000.00","$651,875.00",Djordje Mihailovic
+521,Matko,Milijevic,Montreal,M,"$545,455.00","$593,364.00",Matko Milijevic
+522,Tyler,Miller,Minnesota United,GK,"$400,000.00","$420,937.00",Tyler Miller
+523,Kamal,Miller,Montreal,D,"$85,444.00","$85,444.00",Kamal Miller
+524,Eric,Miller,Nashville SC,D,"$147,000.00","$147,000.00",Eric Miller
+525,Miguel,Mina Nazarit,Nashville SC,D,"$700,000.00","$894,375.00",Miguel Mina Nazarit
+526,Ben,Mines,FC Cincinnati,M,"$81,375.00","$86,239.00",Ben Mines
+527,Joao Paulo,Mior,Seattle Sounders FC,M,"$1,000,000.00","$1,050,000.00",Joao Paulo Mior
+528,Selmir,Miscic,Philadelphia Union,M,"$63,547.00","$70,026.00",Selmir Miscic
+529,Alexandru,Mitrita,New York City FC,F,"$700,000.00","$700,000.00",Alexandru Mitrita
+530,Cody,Mizell,New York City FC,GK,"$81,375.00","$81,375.00",Cody Mizell
+531,Kamohelo,Mokotjo,FC Cincinnati,M,"$925,000.00","$1,007,969.00",Kamohelo Mokotjo
+532,Kevin,Molino,Columbus Crew,M,"$667,000.00","$667,000.00",Kevin Molino
+533,Alex,Monis,Chicago Fire,M,"$66,724.00","$68,624.00",Alex Monis
+534,Jamiro,Monteiro,Philadelphia Union,M,"$1,300,000.00","$1,476,250.00",Jamiro Monteiro
+535,Fredy,Montero,Seattle Sounders FC,F,"$81,375.00","$81,375.00",Fredy Montero
+536,Callum,Montgomery,Minnesota United,D,"$81,375.00","$83,292.00",Callum Montgomery
+537,Lucas,Monzon,New York Red Bulls,D,"$205,000.00","$243,917.00",Lucas Monzon
+538,Kim,Moon-Hwan,LAFC,D-M,"$500,000.00","$524,000.00",Kim Moon-Hwan
+539,Drew,Moor,Colorado Rapids,D,"$150,000.00","$165,000.00",Drew Moor
+540,Joseph,Mora,DC United,D,"$184,000.00","$198,600.00",Joseph Mora
+541,Felipe,Mora,Portland Timbers,F,"$825,000.00","$905,000.00",Felipe Mora
+542,Efrain,Morales,Atlanta United,D,"$63,547.00","$63,547.00",Efrain Morales
+543,Alfredo,Morales,New York City FC,M,"$600,000.00","$662,250.00",Alfredo Morales
+544,Maxi,Moralez,New York City FC,M,"$2,500,000.00","$3,285,000.00",Maxi Moralez
+545,Steven,Moreira,Columbus Crew,D,"$350,000.00","$432,708.00",Steven Moreira
+546,Marcelino,Moreno,Atlanta United,F-M,"$400,000.00","$400,000.00",Marcelino Moreno
+547,Junior,Moreno,DC United,M,"$184,000.00","$193,550.00",Junior Moreno
+548,Santiago,Moreno,Portland Timbers,F,"$250,000.00","$294,576.00",Santiago Moreno
+549,Lewis,Morgan,Inter Miami,M-F,"$550,000.00","$553,125.00",Lewis Morgan
+550,Ashtone,Morgan,Real Salt Lake,D,"$132,000.00","$132,000.00",Ashtone Morgan
+551,Aidan,Morris,Columbus Crew,M,"$145,000.00","$147,000.00",Aidan Morris
+552,Jordan,Morris,Seattle Sounders FC,F,"$1,150,000.00","$1,270,100.00",Jordan Morris
+553,Justin,Morrow,Toronto FC,D,"$125,000.00","$125,000.00",Justin Morrow
+554,Kyle,Morton,Houston Dynamo,GK,"$81,375.00","$81,375.00",Kyle Morton
+555,Joao,Moutinho,Orlando City SC,D,"$180,000.00","$223,000.00",Joao Moutinho
+556,Chris,Mueller,Orlando City SC,M,"$123,715.00","$137,465.00",Chris Mueller
+557,Hany,Mukhtar,Nashville SC,M,"$1,505,000.00","$1,505,000.00",Hany Mukhtar
+558,Patrick,Mullins,Toronto FC,F,"$234,996.00","$248,329.00",Patrick Mullins
+559,Jake,Mulraney,Atlanta United,M,"$275,600.00","$312,777.00",Jake Mulraney
+560,Eddie,Munjoma,FC Dallas,D,"$66,724.00","$66,724.00",Eddie Munjoma
+561,Jesus,Murillo,LAFC,D,"$400,000.00","$459,500.00",Jesus Murillo
+562,Trey,Muse,Seattle Sounders FC,GK,"$81,375.00","$90,125.00",Trey Muse
+563,Danny,Musovski,LAFC,F,"$85,444.00","$85,444.00",Danny Musovski
+564,Alex,Muyl,Nashville SC,M,"$240,000.00","$246,563.00",Alex Muyl
+565,Darlington,Nagbe,Columbus Crew,M,"$1,710,000.00","$1,710,000.00",Darlington Nagbe
+566,Andy,Najar,DC United,D,"$90,000.00","$100,000.00",Andy Najar
+567,Younes,Namli,Colorado Rapids,M,"$850,000.00","$1,271,000.00",Younes Namli
+568,Luis,Nani,Orlando City SC,F,"$2,333,333.00","$2,486,250.00",Luis Nani
+569,Miguel Angel,Navarro,Chicago Fire,D,"$150,000.00","$197,000.00",Miguel Angel Navarro
+570,Federico,Navarro,Chicago Fire,M,"$180,000.00","$257,500.00",Federico Navarro
+571,Jalen,Neal,LA Galaxy,D,"$90,000.00","$103,625.00",Jalen Neal
+572,Dylan,Nealis,Nashville SC,D,"$100,000.00","$125,000.00",Dylan Nealis
+573,Sean,Nealis,New York Red Bulls,D,"$81,375.00","$81,375.00",Sean Nealis
+574,John,Nelson,FC Dallas,D,"$115,000.00","$123,000.00",John Nelson
+575,Michael,Nelson,Houston Dynamo,GK,"$85,444.00","$85,444.00",Michael Nelson
+576,Jayden,Nelson,Toronto FC,F,"$100,000.00","$106,586.00",Jayden Nelson
+577,Jake,Nerwinski,Vancouver Whitecaps,D,"$255,000.00","$270,000.00",Jake Nerwinski
+578,Evan,Newton,Vancouver Whitecaps,GK,"$95,000.00","$104,802.00",Evan Newton
+579,Michee,Ngalina,LAFC,F,"$81,375.00","$82,875.00",Michee Ngalina
+580,Jaroslaw,Niezgoda,Portland Timbers,F,"$739,500.00","$908,758.00",Jaroslaw Niezgoda
+581,Moses,Nyeman,DC United,M,"$85,444.00","$88,230.00",Moses Nyeman
+582,Shane,O'Neill,Seattle Sounders FC,D,"$115,000.00","$115,000.00",Shane O'Neill
+583,Jader,Obrian,FC Dallas,F,"$360,000.00","$444,600.00",Jader Obrian
+584,Alfonso,Ocampo-Chavez,Seattle Sounders FC,F,"$81,375.00","$95,875.00",Alfonso Ocampo-Chavez
+585,David,Ochoa,Real Salt Lake,GK,"$90,000.00","$90,000.00",David Ochoa
+586,Emmanuel,Ochoa,San Jose Earthquakes,GK,"$65,000.00","$75,080.00",Emmanuel Ochoa
+587,Chris,Odoi-Atsem,DC United,D,"$130,000.00","$141,000.00",Chris Odoi-Atsem
+588,Chinonso,Offor,Chicago Fire,F,"$132,000.00","$181,400.00",Chinonso Offor
+589,Noble,Okello,Toronto FC,M,"$100,000.00","$111,815.00",Noble Okello
+590,Wyatt,Omsberg,Chicago Fire,D,"$85,444.00","$85,444.00",Wyatt Omsberg
+591,Ike,Opara,Major League Soccer,D,"$600,000.00","$685,333.00",Ike Opara
+592,Kwadwo,Opoku,LAFC,F-M,"$81,375.00","$122,430.00",Kwadwo Opoku
+593,Matej,Oravec,Philadelphia Union,M,"$270,000.00","$284,500.00",Matej Oravec
+594,Arquimides,Ordonez,FC Cincinnati,F,"$63,547.00","$67,084.00",Arquimides Ordonez
+595,Jonathan,Osorio,Toronto FC,M,"$850,000.00","$876,250.00",Jonathan Osorio
+596,Leonard,Owusu,Vancouver Whitecaps,M,"$350,000.00","$401,250.00",Leonard Owusu
+597,Diego,Palacios,LAFC,D,"$432,000.00","$456,000.00",Diego Palacios
+598,Marcelo,Palomino,Houston Dynamo,F,"$66,724.00","$66,724.00",Marcelo Palomino
+599,Elliot,Panicco,Nashville SC,GK,"$81,375.00","$81,375.00",Elliot Panicco
+600,James,Pantemis,Montreal,GK,"$130,000.00","$145,833.00",James Pantemis
+601,Kevin,Paredes,DC United,M,"$100,000.00","$108,000.00",Kevin Paredes
+602,Cristhian,Paredes,Portland Timbers,M,"$252,000.00","$283,500.00",Cristhian Paredes
+603,Isaiah,Parente,Columbus Crew,M,"$63,547.00","$67,547.00",Isaiah Parente
+604,Tim,Parker,Houston Dynamo,D,"$1,161,800.00","$1,199,300.00",Tim Parker
+605,Keaton,Parks,New York City FC,M,"$350,000.00","$350,000.00",Keaton Parks
+606,Tyler,Pasher,Houston Dynamo,F,"$150,000.00","$157,881.00",Tyler Pasher
+607,Alexandre,Pato,Orlando City SC,F,"$272,727.00","$272,727.00",Alexandre Pato
+608,Damiano,Pecile,Vancouver Whitecaps,M,"$66,724.00","$72,818.00",Damiano Pecile
+609,Matias,Pellegrini,Major League Soccer,M-F,"$825,000.00","$920,833.00",Matias Pellegrini
+610,Jason,Pendant,New York Red Bulls,D,"$325,000.00","$385,750.00",Jason Pendant
+611,Josh,Penn,Inter Miami,M-F,"$63,547.00","$63,547.00",Josh Penn
+612,Ricardo,Pepi,FC Dallas,F,"$200,000.00","$271,333.00",Ricardo Pepi
+613,Andres,Perea,Orlando City SC,M,"$180,000.00","$188,500.00",Andres Perea
+614,Danny,Pereira,Austin FC,M,"$81,375.00","$99,793.00",Danny Pereira
+615,Mauricio,Pereyra,Orlando City SC,M,"$1,800,000.00","$1,848,000.00",Mauricio Pereyra
+616,Manny,Perez,Austin FC,M,"$63,547.00","$89,214.00",Manny Perez
+617,Adrien,Perez,DC United,F,"$81,375.00","$81,375.00",Adrien Perez
+618,Jonathan,Perez,LA Galaxy,M,"$125,000.00","$146,750.00",Jonathan Perez
+619,Jordan,Perruzza,Toronto FC,F,"$63,547.00","$67,847.00",Jordan Perruzza
+620,Fafa,Picault,Houston Dynamo,F,"$500,000.00","$500,000.00",Fafa Picault
+621,Kayden,Pierre,Sporting Kansas City,D,"$63,547.00","$68,647.00",Kayden Pierre
+622,Samuel,Piette,Montreal,M,"$425,000.00","$454,750.00",Samuel Piette
+623,Mauricio,Pineda,Chicago Fire,D-M,"$175,000.00","$198,875.00",Mauricio Pineda
+624,Rodrigo,Pineiro,Nashville SC,F,"$250,000.00","$347,500.00",Rodrigo Pineiro
+625,Donovan,Pines,DC United,D,"$125,000.00","$127,000.00",Donovan Pines
+626,Rodolfo,Pizarro,Inter Miami,M-F,"$3,050,000.00","$3,350,000.00",Rodolfo Pizarro
+627,Tomas,Pochettino,Austin FC,M,"$582,447.00","$642,447.00",Tomas Pochettino
+628,Andy,Polo,Portland Timbers,M,"$500,000.00","$500,000.00",Andy Polo
+629,Matt,Polster,New England Revolution,D-M,"$300,000.00","$328,438.00",Matt Polster
+630,Paxton,Pomykal,FC Dallas,M,"$600,000.00","$600,000.00",Paxton Pomykal
+631,Gino,Portella,Philadelphia Union,,"$63,547.00","$71,615.00",Gino Portella
+632,Justin,Portillo,Real Salt Lake,M,"$85,444.00","$85,444.00",Justin Portillo
+633,Noah,Powder,Real Salt Lake,D,"$63,547.00","$67,609.00",Noah Powder
+634,Alvas,Powell,Philadelphia Union,D,"$81,375.00","$88,875.00",Alvas Powell
+635,Alejandro,Pozuelo,Toronto FC,M,"$3,800,000.00","$4,693,000.00",Alejandro Pozuelo
+636,Jack,Price,Colorado Rapids,M,"$600,000.00","$655,625.00",Jack Price
+637,Ralph,Priso,Toronto FC,M,"$66,724.00","$70,476.00",Ralph Priso
+638,Kacper,Przybylko,Philadelphia Union,F,"$825,000.00","$916,250.00",Kacper Przybylko
+639,Alan,Pulido Izaguirre,Sporting Kansas City,F,"$2,200,000.00","$2,200,000.00",Alan Pulido Izaguirre
+640,William,Pulisic,Austin FC,GK,"$63,547.00","$63,547.00",William Pulisic
+641,John,Pulskamp,Sporting Kansas City,GK,"$67,360.00","$69,860.00",John Pulskamp
+642,Roberto,Puncec,Sporting Kansas City,D,"$575,000.00","$575,000.00",Roberto Puncec
+643,Andrew,Putna,Real Salt Lake,GK,"$140,000.00","$153,458.00",Andrew Putna
+644,Alvaro,Quezada,LAFC,D-M,"$63,547.00","$63,547.00",Alvaro Quezada
+645,Facundo,Quignon,FC Dallas,M,"$786,000.00","$840,627.00",Facundo Quignon
+646,Darwin,Quintero,Houston Dynamo,F,"$1,352,055.00","$1,352,055.00",Darwin Quintero
+647,Jairo,Quinteros,Inter Miami,D,"$66,724.00","$66,724.00",Jairo Quinteros
+648,Romell,Quioto,Montreal,F,"$800,000.00","$885,000.00",Romell Quioto
+649,Kaveh,Rad,Sporting Kansas City,D,"$63,547.00","$63,547.00",Kaveh Rad
+650,Jukka,Raitala,Minnesota United,D,"$285,000.00","$306,350.00",Jukka Raitala
+651,Jeizon,Ramirez Chacon,Real Salt Lake,M,"$360,000.00","$401,250.00",Jeizon Ramirez Chacon
+652,Gregory,Ranjitsingh,Major League Soccer,GK,"$81,375.00","$81,375.00",Gregory Ranjitsingh
+653,Ryan,Raposo,Vancouver Whitecaps,M,"$90,000.00","$104,000.00",Ryan Raposo
+654,Rayan,Raveloson,LA Galaxy,M,"$780,000.00","$855,025.00",Rayan Raveloson
+655,Andre,Rawls,Colorado Rapids,GK,"$85,000.00","$91,000.00",Andre Rawls
+656,Sean,Rea,Montreal,,"$63,547.00","$71,730.00",Sean Rea
+657,Matthew,Real,Philadelphia Union,D,"$90,000.00","$90,000.00",Matthew Real
+658,Rodney,Redes,Austin FC,F,"$385,000.00","$385,000.00",Rodney Redes
+659,Beni,Redzic,FC Dallas,M,"$63,547.00","$71,169.00",Beni Redzic
+660,Eric,Remedi,San Jose Earthquakes,M,"$450,000.00","$450,000.00",Eric Remedi
+661,Justin,Rennicks,New England Revolution,F,"$100,000.00","$110,000.00",Justin Rennicks
+662,Andres,Reyes,New York Red Bulls,D,"$400,000.00","$444,375.00",Andres Reyes
+663,Yordy,Reyna,DC United,M-F,"$711,500.00","$774,640.00",Yordy Reyna
+664,Andre,Reynolds,Chicago Fire,D,"$81,375.00","$89,375.00",Andre Reynolds
+665,Emanuel,Reynoso,Minnesota United,M,"$750,000.00","$966,910.00",Emanuel Reynoso
+666,Andres,Ricaurte,FC Dallas,M,"$450,000.00","$487,178.00",Andres Ricaurte
+667,Spencer,Richey,Seattle Sounders FC,GK,"$81,375.00","$81,375.00",Spencer Richey
+668,Tosaint,Ricketts,Vancouver Whitecaps,F,"$160,000.00","$165,000.00",Tosaint Ricketts
+669,Alexander,Ring,Austin FC,M,"$1,000,000.00","$1,095,000.00",Alexander Ring
+670,Daniel Esteban,Rios,Houston Dynamo,M,"$63,547.00","$68,069.00",Daniel Esteban Rios
+671,Daniel,Rios,Nashville SC,F,"$140,000.00","$161,500.00",Daniel Rios
+672,Andres,Rios,San Jose Earthquakes,F,"$870,000.00","$939,250.00",Andres Rios
+673,Damian,Rivera,New England Revolution,M,"$63,547.00","$63,547.00",Damian Rivera
+674,Wilfredo,Rivera,Orlando City SC,,"$63,547.00","$63,547.00",Wilfredo Rivera
+675,Nigel,Robertha,DC United,F,"$550,000.00","$622,406.00",Nigel Robertha
+676,Thomas,Roberts,FC Dallas,M,"$150,000.00","$163,000.00",Thomas Roberts
+677,Miles,Robinson,Atlanta United,D,"$650,000.00","$687,500.00",Miles Robinson
+678,Robbie,Robinson,Inter Miami,F,"$125,000.00","$170,000.00",Robbie Robinson
+679,Tony,Rocha,New York City FC,M,"$85,444.00","$85,444.00",Tony Rocha
+680,Allan,Rodriguez,Chicago Fire,M,"$66,724.00","$68,624.00",Allan Rodriguez
+681,Abraham,Rodriguez,Colorado Rapids,GK,"$63,547.00","$63,547.00",Abraham Rodriguez
+682,Memo,Rodriguez,Houston Dynamo,M,"$265,000.00","$290,935.00",Memo Rodriguez
+683,Brian,Rodriguez,LAFC,F,"$700,000.00","$1,039,800.00",Brian Rodriguez
+684,Santiago,Rodriguez,New York City FC,M,"$612,500.00","$612,500.00",Santiago Rodriguez
+685,Cristian,Roldan,Seattle Sounders FC,M,"$760,000.00","$881,542.00",Cristian Roldan
+686,Alex,Roldan,Seattle Sounders FC,M-D,"$93,581.00","$93,581.00",Alex Roldan
+687,Jhohan,Romana,Austin FC,D,"$420,000.00","$420,000.00",Jhohan Romana
+688,"Antonio ""Rocco""",Romeo,Toronto FC,D,"$81,250.00","$84,641.00","Antonio ""Rocco"" Romeo"
+689,Tomas,Romero,LAFC,GK,"$81,375.00","$86,375.00",Tomas Romero
+690,Dave,Romney,Nashville SC,D,"$225,000.00","$225,000.00",Dave Romney
+691,Eloy,Room,Columbus Crew,GK,"$425,004.00","$479,698.00",Eloy Room
+692,Joseph,Rosales,Minnesota United,M,"$81,375.00","$81,375.00",Joseph Rosales
+693,Andy,Rose,Vancouver Whitecaps,M,"$132,000.00","$132,000.00",Andy Rose
+694,Oriol,Rosell,Orlando City SC,M,"$475,000.00","$475,000.00",Oriol Rosell
+695,Keegan,Rosenberry,Colorado Rapids,D,"$285,000.00","$298,750.00",Keegan Rosenberry
+696,Matheus,Rossetto,Atlanta United,M,"$550,000.00","$662,500.00",Matheus Rossetto
+697,Diego,Rossi,LAFC,F,"$1,000,000.00","$1,052,000.00",Diego Rossi
+698,Kelyn,Rowe,Seattle Sounders FC,M-D,"$180,000.00","$180,000.00",Kelyn Rowe
+699,Daniel,Royer,New York Red Bulls,M,"$750,000.00","$818,750.00",Daniel Royer
+700,Rubio,Rubin,Real Salt Lake,F,"$135,000.00","$152,067.00",Rubio Rubin
+701,Diego,Rubio Kostner,Colorado Rapids,F,"$585,000.00","$629,583.00",Diego Rubio Kostner
+702,Raul,Ruidiaz,Seattle Sounders FC,F,"$2,100,000.00","$2,100,000.00",Raul Ruidiaz
+703,Sergio,Ruiz,Major League Soccer,M,"$300,000.00","$363,000.00",Sergio Ruiz
+704,Pablo,Ruiz,Real Salt Lake,M,"$375,000.00","$448,500.00",Pablo Ruiz
+705,Albert,Rusnak,Real Salt Lake,M,"$2,150,000.00","$2,351,667.00",Albert Rusnak
+706,Johnny,Russell,Sporting Kansas City,F,"$1,600,000.00","$1,600,000.00",Johnny Russell
+707,Nathan-Dylan,Saliba,Montreal,,"$63,547.00","$73,999.00",Nathan-Dylan Saliba
+708,Shea,Salinas,San Jose Earthquakes,F,"$280,000.00","$280,000.00",Shea Salinas
+709,Daniel,Salloi,Sporting Kansas City,F,"$400,000.00","$456,667.00",Daniel Salloi
+710,Ilie,Sanchez,Sporting Kansas City,M,"$1,000,000.00","$1,000,000.00",Ilie Sanchez
+711,James,Sands,New York City FC,D-M,"$150,000.00","$200,000.00",James Sands
+712,Pedro,Santos,Columbus Crew,M,"$817,560.00","$864,560.00",Pedro Santos
+713,Sergio,Santos,Philadelphia Union,F,"$660,000.00","$728,500.00",Sergio Santos
+714,CJ,Sapong,Nashville SC,F,"$400,000.00","$427,778.00",CJ Sapong
+715,Tor,Saunders,Nashville SC,GK,"$63,547.00","$63,547.00",Tor Saunders
+716,Rodrigo,Schlegel,Orlando City SC,D,"$120,000.00","$127,425.00",Rodrigo Schlegel
+717,Tate,Schmitt,Real Salt Lake,F,"$90,000.00","$90,000.00",Tate Schmitt
+718,Aaron,Schoenfeld,Austin FC,F,"$210,000.00","$210,000.00",Aaron Schoenfeld
+719,Szabolcs,Schon,FC Dallas,F,"$300,000.00","$341,800.00",Szabolcs Schon
+720,Brady,Scott,Austin FC,GK,"$115,000.00","$121,236.00",Brady Scott
+721,Kyle,Scott,FC Cincinnati,M,"$81,375.00","$92,458.00",Kyle Scott
+722,Patrick,Seagrist,Inter Miami,D,"$63,547.00","$63,547.00",Patrick Seagrist
+723,Dante,Sealy,FC Dallas,F,"$100,000.00","$113,400.00",Dante Sealy
+724,Ulises,Segura,Austin FC,M,"$240,000.00","$269,125.00",Ulises Segura
+725,Eddie,Segura,LAFC,D,"$200,000.00","$224,000.00",Eddie Segura
+726,Chris,Seitz,DC United,GK,"$160,000.00","$160,000.00",Chris Seitz
+727,Amar,Sejdic,Atlanta United,M,"$81,375.00","$81,375.00",Amar Sejdic
+728,Boris,Sekulic,Chicago Fire,D,"$571,000.00","$643,900.00",Boris Sekulic
+729,Brandon,Servania,FC Dallas,M,"$230,400.00","$271,400.00",Brandon Servania
+730,Jacob,Shaffelburg,Toronto FC,M-F,"$110,000.00","$116,500.00",Jacob Shaffelburg
+731,Ryan,Shawcross,Inter Miami,D,"$300,000.00","$307,500.00",Ryan Shawcross
+732,Brek,Shea,Inter Miami,M-D,"$135,000.00","$135,000.00",Brek Shea
+733,Khiry,Shelton,Sporting Kansas City,F,"$650,000.00","$650,000.00",Khiry Shelton
+734,Andre,Shinyashiki,Colorado Rapids,F,"$120,000.00","$130,000.00",Andre Shinyashiki
+735,Bobby,Shuttleworth,Chicago Fire,GK,"$110,000.00","$125,750.00",Bobby Shuttleworth
+736,Marcelo,Silva,Real Salt Lake,D,"$550,000.00","$596,667.00",Marcelo Silva
+737,Kevin,Silva,Toronto FC,GK,"$66,724.00","$66,724.00",Kevin Silva
+738,Luke,Singh,Toronto FC,D,"$63,547.00","$71,513.00",Luke Singh
+739,Jonathan,Sirois,Montreal,GK,"$66,724.00","$71,167.00",Jonathan Sirois
+740,Pablo,Sisniega,LAFC,GK,"$150,000.00","$150,000.00",Pablo Sisniega
+741,Jack,Skahan,San Jose Earthquakes,M,"$66,724.00","$66,724.00",Jack Skahan
+742,Andrew,Skundrich,DC United,M-F,"$81,375.00","$81,375.00",Andrew Skundrich
+743,Gabriel,Slonina,Chicago Fire,GK,"$100,000.00","$104,800.00",Gabriel Slonina
+744,Nicholas,Slonina,Chicago Fire,D,"$66,724.00","$67,974.00",Nicholas Slonina
+745,Kimarni,Smith,DC United,M-F,"$81,375.00","$81,375.00",Kimarni Smith
+746,Collin,Smith,FC Dallas,D,"$63,547.00","$66,547.00",Collin Smith
+747,Kyle,Smith,Orlando City SC,D,"$105,996.00","$118,660.00",Kyle Smith
+748,Brad,Smith,Seattle Sounders FC,D,"$525,000.00","$566,250.00",Brad Smith
+749,Graham,Smith,Sporting Kansas City,D,"$85,444.00","$85,444.00",Graham Smith
+750,Jan,Sobocinksi,Major League Soccer,D,"$120,000.00","$146,250.00",Jan Sobocinksi
+751,Anthony,Sorenson,Philadelphia Union,M,"$63,547.00","$66,547.00",Anthony Sorenson
+752,Erik,Sorga,DC United,F,"$150,000.00","$173,000.00",Erik Sorga
+753,Santiago,Sosa,Atlanta United,M-F,"$385,000.00","$503,100.00",Santiago Sosa
+754,Yeferson,Soteldo,Toronto FC,F,"$1,500,000.00","$1,965,000.00",Yeferson Soteldo
+755,Caio Alexandre,Sousa e Silva,Vancouver Whitecaps,M,"$500,000.00","$539,583.00",Caio Alexandre Sousa e Silva
+756,Brenner,Souza da Silva,FC Cincinnati,F,"$1,221,818.00","$1,760,418.00",Brenner Souza da Silva
+757,Omar,Sowe,New York Red Bulls,F,"$63,547.00","$72,633.00",Omar Sowe
+758,Dayne,St. Clair,Minnesota United,GK,"$95,000.00","$99,520.00",Dayne St. Clair
+759,Mason,Stajduhar,Orlando City SC,GK,"$85,444.00","$85,444.00",Mason Stajduhar
+760,Caleb,Stanko,FC Cincinnati,M,"$210,000.00","$210,000.00",Caleb Stanko
+761,Aedan,Stanley,Austin FC,D,"$63,547.00","$63,547.00",Aedan Stanley
+762,Daniel,Steres,LA Galaxy,D,"$375,000.00","$393,750.00",Daniel Steres
+763,Luka,Stojanovic,Chicago Fire,M,"$314,000.00","$373,400.00",Luka Stojanovic
+764,Jared,Stroud,Austin FC,M,"$81,375.00","$81,375.00",Jared Stroud
+765,"Aljaz ""Kiki""",Struna,Montreal,D,"$1,100,000.00","$1,210,000.00","Aljaz ""Kiki"" Struna"
+766,Brad,Stuver,Austin FC,GK,"$150,000.00","$160,000.00",Brad Stuver
+767,Quinn,Sullivan,Philadelphia Union,M,"$63,547.00","$67,047.00",Quinn Sullivan
+768,Hunter,Sulte,Portland Timbers,GK,"$63,547.00","$68,143.00",Hunter Sulte
+769,Beckham,Sunderland,FC Cincinnati,GK,"$63,547.00","$67,609.00",Beckham Sunderland
+770,Ben,Sweat,Austin FC,D,"$250,000.00","$250,000.00",Ben Sweat
+771,Ballou,Tabla,Montreal,M,"$250,000.00","$276,250.00",Ballou Tabla
+772,Ismael,Tajouri-Shradi,New York City FC,F,"$577,500.00","$618,985.00",Ismael Tajouri-Shradi
+773,Andrew,Tarbell,Austin FC,GK,"$275,000.00","$283,333.00",Andrew Tarbell
+774,DJ,Taylor,Minnesota United,M,"$63,547.00","$63,547.00",DJ Taylor
+775,Russell,Teibert,Vancouver Whitecaps,M,"$350,000.00","$387,500.00",Russell Teibert
+776,Ruan,Teixeira,Orlando City SC,D,"$190,000.00","$190,000.00",Ruan Teixeira
+777,Carlos,Teran,Chicago Fire,D,"$150,000.00","$205,440.00",Carlos Teran
+778,Andrew,Thomas,Seattle Sounders FC,GK,"$81,375.00","$88,875.00",Andrew Thomas
+779,Tommy,Thompson,San Jose Earthquakes,D,"$265,000.00","$265,000.00",Tommy Thompson
+780,Brooks,Thompson,Sporting Kansas City,GK,"$63,547.00","$63,547.00",Brooks Thompson
+781,Gudmundur,Thorarinson,New York City FC,D-M,"$400,000.00","$400,000.00",Gudmundur Thorarinson
+782,Robert,Thorkelsson,Montreal,D,"$150,000.00","$173,500.00",Robert Thorkelsson
+783,Anton,Tinnerholm,New York City FC,D,"$600,000.00","$650,000.00",Anton Tinnerholm
+784,Donny,Toia,Real Salt Lake,D,"$200,000.00","$205,000.00",Donny Toia
+785,John,Tolkin,New York Red Bulls,D,"$81,375.00","$86,375.00",John Tolkin
+786,Nouhou,Tolo,Seattle Sounders FC,D,"$125,000.00","$169,274.00",Nouhou Tolo
+787,Erick,Torres,Atlanta United,F,"$81,375.00","$81,375.00",Erick Torres
+788,Christian,Torres,LAFC,F,"$79,738.00","$90,968.00",Christian Torres
+789,Joaquin,Torres,Montreal,M,"$200,000.00","$249,800.00",Joaquin Torres
+790,Juan Pablo,Torres,New York City FC,M,"$90,000.00","$104,500.00",Juan Pablo Torres
+791,"Dantouma ""Yaya""",Toure,Colorado Rapids,F,"$63,547.00","$78,165.00","Dantouma ""Yaya"" Toure"
+792,Mason,Toye,Montreal,F,"$175,000.00","$233,000.00",Mason Toye
+793,Mohamed,Traore,LAFC,D,"$91,444.00","$91,444.00",Mohamed Traore
+794,Wil,Trapp,Minnesota United,M,"$747,500.00","$747,500.00",Wil Trapp
+795,Arnor,Traustason,New England Revolution,M,"$375,000.00","$413,405.00",Arnor Traustason
+796,Auston,Trusty,Colorado Rapids,D,"$375,000.00","$431,250.00",Auston Trusty
+797,Bill,Tuiloma,Portland Timbers,D-M,"$220,000.00","$234,125.00",Bill Tuiloma
+798,Matt,Turner,New England Revolution,GK,"$375,000.00","$375,000.00",Matt Turner
+799,Cole,Turner,Philadelphia Union,M,"$85,444.00","$88,444.00",Cole Turner
+800,Ema,Twumasi,FC Dallas,F,"$200,000.00","$246,900.00",Ema Twumasi
+801,Przemyslaw,Tyton,FC Cincinnati,GK,"$262,500.00","$269,375.00",Przemyslaw Tyton
+802,Victor,Ulloa,Inter Miami,M,"$220,000.00","$220,000.00",Victor Ulloa
+803,Maximiliano,Urruti,Houston Dynamo,F,"$1,136,127.00","$1,270,146.00",Maximiliano Urruti
+804,Felipe,Valencia,Inter Miami,F,"$63,547.00","$63,547.00",Felipe Valencia
+805,Zarek,Valentin,Houston Dynamo,D,"$250,000.00","$280,000.00",Zarek Valentin
+806,Milton,Valenzuela,Columbus Crew,D,"$375,000.00","$406,300.00",Milton Valenzuela
+807,Diego,Valeri,Portland Timbers,M,"$765,000.00","$914,875.00",Diego Valeri
+808,Gustavo,Vallecilla,FC Cincinnati,D,"$252,000.00","$284,880.00",Gustavo Vallecilla
+809,Florian,Valot,FC Cincinnati,M,"$93,581.00","$97,498.00",Florian Valot
+810,Silvester,Van der Water,Orlando City SC,F,"$300,000.00","$325,750.00",Silvester Van der Water
+811,Maikel,Van Der Werff,FC Cincinnati,D,"$350,000.00","$435,167.00",Maikel Van Der Werff
+812,Jose,Van Rankin,Portland Timbers,D-M,"$105,255.00","$105,255.00",Jose Van Rankin
+813,Freddy,Vargas,FC Dallas,M,"$160,000.00","$186,000.00",Freddy Vargas
+814,Indiana,Vassilev,Inter Miami,F,"$81,375.00","$81,375.00",Indiana Vassilev
+815,Brandon,Vazquez,FC Cincinnati,F,"$250,000.00","$279,167.00",Brandon Vazquez
+816,Victor,Vazquez,LA Galaxy,M,"$400,000.00","$439,167.00",Victor Vazquez
+817,Daniel,Vega,San Jose Earthquakes,GK,"$220,000.00","$225,000.00",Daniel Vega
+818,Carlos,Vela,LAFC,F,"$4,500,000.00","$6,300,000.00",Carlos Vela
+819,Matias Gabriel,Vera,Houston Dynamo,M,"$350,000.00","$356,250.00",Matias Gabriel Vera
+820,Collin,Verfurth,New England Revolution,D,"$81,375.00","$81,375.00",Collin Verfurth
+821,Kenneth,Vermeer,FC Cincinnati,GK,"$81,375.00","$104,375.00",Kenneth Vermeer
+822,Ranko,Veselinovic,Vancouver Whitecaps,D,"$360,000.00","$445,500.00",Ranko Veselinovic
+823,Jorge,Villafaña,LA Galaxy,D,"$450,000.00","$486,667.00",Jorge Villafaña
+824,Will,Vint,Colorado Rapids,D,"$63,547.00","$63,547.00",Will Vint
+825,Pedro,Vite,Vancouver Whitecaps,M,"$556,000.00","$609,997.00",Pedro Vite
+826,Justin,Vom Steeg,LA Galaxy,GK,"$85,444.00","$85,444.00",Justin Vom Steeg
+827,Kai,Wagner,Philadelphia Union,D,"$450,000.00","$521,000.00",Kai Wagner
+828,Anton,Walkes,Atlanta United,D,"$250,000.00","$275,062.00",Anton Walkes
+829,Casey,Walls,San Jose Earthquakes,D,"$85,000.00","$88,000.00",Casey Walls
+830,Remi,Walter,Sporting Kansas City,M,"$650,000.00","$650,000.00",Remi Walter
+831,Victor,Wanyama,Montreal,M,"$2,400,000.00","$3,091,667.00",Victor Wanyama
+832,Collen,Warner,Colorado Rapids,M,"$81,375.00","$81,375.00",Collen Warner
+833,Bryce,Washington,Atlanta United,D,"$63,547.00","$63,547.00",Bryce Washington
+834,Taylor,Washington,Nashville SC,D-M,"$89,513.00","$89,513.00",Taylor Washington
+835,Joel,Waterman,Montreal,D,"$81,375.00","$90,284.00",Joel Waterman
+836,Patrick,Weah,Minnesota United,M-F,"$63,547.00","$76,733.00",Patrick Weah
+837,Quentin,Westberg,Toronto FC,GK,"$275,000.00","$288,583.00",Quentin Westberg
+838,Brian,White,Vancouver Whitecaps,F,"$216,000.00","$216,000.00",Brian White
+839,Josh,Williams,Columbus Crew,D,"$300,000.00","$302,500.00",Josh Williams
+840,Derrick,Williams,LA Galaxy,D,"$750,000.00","$821,458.00",Derrick Williams
+841,Augustine,Williams,LA Galaxy,F-M,"$63,547.00","$63,547.00",Augustine Williams
+842,Thomas,Williams,Orlando City SC,,"$63,547.00","$70,077.00",Thomas Williams
+843,Eryk,Williamson,Portland Timbers,M,"$220,000.00","$236,500.00",Eryk Williamson
+844,Tommy,Williamson,San Jose Earthquakes,F,"$63,547.00","$63,547.00",Tommy Williamson
+845,Joe,Willis,Nashville SC,GK,"$300,000.00","$316,250.00",Joe Willis
+846,Danny,Wilson,Colorado Rapids,D,"$275,000.00","$288,750.00",Danny Wilson
+847,Tyler,Wolff,Atlanta United,F-M,"$75,000.00","$79,500.00",Tyler Wolff
+848,Owen,Wolff,Austin FC,M,"$63,547.00","$76,600.00",Owen Wolff
+849,Chris,Wondolowski,San Jose Earthquakes,F,"$390,000.00","$400,000.00",Chris Wondolowski
+850,Bobby,Wood,Real Salt Lake,F,"$875,000.00","$968,161.00",Bobby Wood
+851,Vito,Wormgoor,Columbus Crew,D,"$415,000.00","$492,875.00",Vito Wormgoor
+852,Bradley,Wright-Phillips,Columbus Crew,F,"$410,000.00","$475,750.00",Bradley Wright-Phillips
+853,Karifa,Yao,Montreal,D,"$81,375.00","$85,591.00",Karifa Yao
+854,Darren,Yapi,Colorado Rapids,F,"$63,547.00","$74,380.00",Darren Yapi
+855,William,Yarbrough,Colorado Rapids,GK,"$300,000.00","$375,000.00",William Yarbrough
+856,Dru,Yearwood,New York Red Bulls,M,"$475,000.00","$519,750.00",Dru Yearwood
+857,Griffin,Yow,DC United,F,"$110,000.00","$116,118.00",Griffin Yow
+858,Jackson,Yueill,San Jose Earthquakes,M,"$600,000.00","$636,875.00",Jackson Yueill
+859,Renzo,Zambrano,Portland Timbers,M,"$85,444.00","$85,444.00",Renzo Zambrano
+860,Gyasi,Zardes,Columbus Crew,F,"$1,350,000.00","$1,400,000.00",Gyasi Zardes
+861,Eriq,Zavaleta,Toronto FC,D,"$81,375.00","$115,503.00",Eriq Zavaleta
+862,Gedion,Zelalem,New York City FC,M,"$81,375.00","$81,375.00",Gedion Zelalem
+863,Lucas,Zelarayan,Columbus Crew,M,"$1,620,000.00","$1,985,000.00",Lucas Zelarayan
+864,Adrian,Zendejas,Minnesota United,GK,"$81,375.00","$90,208.00",Adrian Zendejas
+865,Walker,Zimmerman,Nashville SC,D,"$925,000.00","$981,050.00",Walker Zimmerman
+866,Kyle,Zobeck,FC Dallas,GK,"$85,444.00","$85,444.00",Kyle Zobeck
+867,Rida,Zouhir,Montreal,M,"$63,547.00","$71,730.00",Rida Zouhir
+868,Ethan,Zubak,LA Galaxy,F,"$130,000.00","$133,125.00",Ethan Zubak
+869,Dario,Zuparic,Portland Timbers,D,"$525,000.00","$541,667.00",Dario Zuparic
+870,Graham,Zusi,Sporting Kansas City,D,"$650,000.00","$713,333.00",Graham Zusi
