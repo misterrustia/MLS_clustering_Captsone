@@ -1,0 +1,1 @@
+creds = "/Users/robertrustia/Desktop/soccer/mls_info/g_k/san-jose-earthquakes-dev-356d71186392.json"
