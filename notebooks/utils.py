@@ -42,6 +42,7 @@ def save_file(data, fname, dname):
 
 
 def _save_file(data, fpath):
+    import pickle
     valid_ftypes = ['.csv', '.pkl']
 
     assert (fpath[-4:] in valid_ftypes), "Invalid file type.  Use '.csv' or '.pkl'"
