@@ -1,0 +1,8 @@
+Defensive passing,Dribbling,Defensive actions,Short passing,Playing time,Tackling,Attacking play,Passing volume,Progressive passing
+recept_pct (9.36),dribble_Succ (2.71),pAdj_Clearences (2.37),Total_Cmp_pct (1.71),Nineties (2.1),pAdj_Tackles_Mid_3rd (1.1),touches_att_box (1.37),touches_mid_3rd (0.87),Crosses (1.07)
+avg_shrt+med_pass_pct (8.98),num_dribble_past (2.63),pAdj_Blocked_shots (2.05),avg_shrt+med_pass_pct (1.66),Total_Cmp_pct (1.69),pAdj_Total_tackles (0.97),SoT (1.3),recep_succ (0.84),touches_att_3rd (0.7)
+pct_long_balls (8.19),dribble_Att (2.52),touches_def_3rd (1.81),recept_pct (1.44),avg_shrt+med_pass_pct (1.62),pAdj_Tackles_Won (0.97),npxG (1.23),Total_Cmp (0.76),attacking_touches (0.65)
+touches_def_box (7.97),dispossed (2.31),pAdj_def_interceptions (1.49),Long_Cmp_pct (1.28),dribble_Succ_pct (1.45),pAdj_Tackles_and_Ints (0.84),xG (1.19),Total_Att (0.76),Short_Att (0.54)
+Long_Att (7.87),carries_prog (1.95),pAdj_Interceptions (1.48),dribble_Succ_pct (1.26),Long_Cmp_pct (1.39),pAdj_Num_Dribbled_past (0.82),Sh (1.18),carries (0.75),xA (0.52)
+Total_Prg_Dist (7.76),attacking_touches (1.84),Aerial_win_pct (1.39),Dist (1.16),recept_pct (1.39),pAdj_Num_Dribblers_tackled (0.81),Offsides (1.03),recep_targ (0.73),recept_pct (0.51)
+touches_def_3rd (7.18),dribble_megs (1.83),pAdj_Tackle_int_blocks (1.39),Short_Att (0.87),Short_Att (0.7),pAdj_Tackle_int_blocks (0.76),Gls (1.02),Total_Tot_Dist (0.72),pAdj_Blocked_pass (0.5)
