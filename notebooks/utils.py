@@ -120,25 +120,38 @@ def radar_compare(player1,player2,params, df):
 def display_features(H,W,feature_names, X_matrix ,no_top_features, no_top_players):
     import numpy as np
     """ visualize skill get group and highest ranked players in group """
+    groups = []
     topics = {}
     # iterate through topics in topic-term matrix, 'H' aka
     # H is the hidden layer which is shape (F x C) feature times topic matrix
     for topic_idx, topic in enumerate(H):
+        top_players =[]
         print("Topic %d:" % (topic_idx))
         print(" ".join([ (feature_names[i] + " (" + str(topic[i].round(2)) + ")")
           for i in topic.argsort()[:-no_top_features - 1:-1]]))
+#         group
+#         groups.append[]
         
         # add features to topics dictionary for later assesment. 
         
-        topics[topic_idx] = [ (feature_names[i] + " (" + str(topic[i].round(2)) + ")") 
+        features = [ (feature_names[i] + " (" + str(topic[i].round(2)) + ")") 
                              for i in topic.argsort()[:-(no_top_features+3) - 1:-1]]
+        fs = ''
+        for i in features:
+            fs = fs +str(i)
         
+        
+        print(type(features))
         top_player_indicies = np.argsort( W[:,topic_idx] )[::-1][0:no_top_players]
         for p_index in top_player_indicies:
             
             print(p_index," ",X_matrix.index[p_index])
+            player = (p_index,X_matrix.index[p_index])
+            top_players.append(player)
+        topics[fs] = top_players
+    final = pd.DataFrame(topics)
     
-    return topics 
+    return final 
 
 
 def add_skill_group(X,W):
