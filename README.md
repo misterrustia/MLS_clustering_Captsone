@@ -64,9 +64,9 @@ One of the players profiled in the EDA is Nathan Cordoso who stood out as a depe
 ![[Jullian-Gressel|width=100px]](/data/images/Jullian-Gressel.png| width=100) 
 ![[Gumundur_porarinsson|width=100px]](/data/images/Gumundur_porarinsson .png| width=100)
 ![[Julian_radar|width=100px]](/data/images/Julian_radar.png| width=100)
-![[Jullian_bar|width=100px]](/data/images/Jullian_bar.png| width=100)
+![[Jullian_bar|width=100px]](/data/images/Jullian_bar.png)
  Guðmundur Þórarinsson who now plays for AALBORG BKin the SUPERLIGAEN  after leaving NYC and their successful total campaign is closest to Julian Gressle. Both players are highlighted for their Progressive play on the ball, number of players dribbled past and recoveries. 
 
-![[Player_rank_heat_map|width=100px]](/data/images/Def_player_heatmap.png| width=100)
+![[Player_rank_heat_map|width=100px]](/data/images/Def_player_heatmap.png)
 
 
