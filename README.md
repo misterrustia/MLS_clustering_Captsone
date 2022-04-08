@@ -60,14 +60,17 @@ The clusters below show the leauge classified into 9 different skill set groups 
 Objective - Take target players from EDA and use the NMF model as a recommendation system for similar players.
 [Modeling Notebook with all player recomendations](MLS_clustering_Captsone/notebooks/5_modeling.ipynb)
 
-### Example of the comparison between Julian Gressel and the models closest match Guðmundur Þórarinsson 
+Example of the comparison between Julian Gressel and the models closest match Guðmundur Þórarinsson 
 The Weight matrix from the NMF puts  Guðmundur Þórarinsson as the closest player to our identified player Julian Gressel. 
+
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/cosine_sim_G.png" width="200" height="200">
+
 Both players progressive play as well as astute defensive ability can be seen in the radar plot.
 
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Julian_radar.png" width="350" height="350">
 
-Simularities in the players features can be seen in the bar graph below. 
+Simularities in the players features can be seen in the bar graph.
+
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="400" height="225">
  
  ### Heatmap of identified players
