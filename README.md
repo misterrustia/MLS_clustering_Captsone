@@ -44,14 +44,14 @@ The first step in answering this question is to define a progressive defender. T
 
 
 ### EDA final player list 
-Nathan Cordoso, Julian Gressel, Hector Jimenez, Kai Wagner and Graham Zusi  were identified through the EDA process as progressive defenders involved in the attack. 
+Nathan Cordoso, Julian Gressel, Hector Jimenez, Kai Wagner and Graham Zusi  were identified through the EDA process as progressive defenders involved in the attack. The output matrix from the NMF will be used to find the closest players to these players of interest. 
 
 
 
 ## 4 - Algorithm and Machine Learning 
 
-NMF or Non Negative Matrix Factorization is widely used for topic modeling and document clustering. I used NMF to classify my MLS 2021 data set by the "topic" or ,grouping of player stats,that I will call a "skill set group". Similar players will have similar scores for the NMF generated skill set group features. To be able to compare players skill set group scores the cosine similarity between the normalized NMF output matrix allows for a distance between the target players identified in EDA and the rest of the league to be calculated. 
-The clusters 
+NMF or Non Negative Matrix Factorization is widely used for topic modeling and document clustering. NMF classifies the MLS 2021 data set by "topic" or ,group of player stats, called a "skill set group". Similar players will have similar scores for the NMF generated skill set group features. To be able to compare players skill set group scores the cosine similarity between the normalized NMF output W(weight) matrix allows for a distance between a target players identified in EDA and the rest of the league to be calculated. 
+The clusters below show the leauge classified into 9 different skill set groups by the final NMF model. 
 ![[test image|width=100px]](/data/images/NMF_clusters_PCA.jpeg)
 ## 5 - Predictions  
 Objective - Take target players from EDA and use the NMF model as a recommendation system for similar players.
