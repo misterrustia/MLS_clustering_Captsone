@@ -1,7 +1,7 @@
 # MLS_Clustering_Captsone
 Clustering on 2021 player stats
 
-#MLS Player Recommendation Capstone Documentation
+# MLS Player Recommendation Capstone Documentation
 By Robet D. Rustia 
 
 ## Problem Statement 
@@ -38,8 +38,8 @@ In my EDA there are some key questions that drive the exploration of the player 
 The first step in answering this question is to define a progressive defender. This player is sound defensively as well as being able to get involved in the attack through their dribbling, passing or a combination of the both. Specifically their play progresses the attack forward instead of simply distributing to low lying midfielders to do most of the progression. In the modern game players such as Alexander Arnold  come to mind. His ability to use wide space to progress the ball as well as put crosses in have been a staple of the Liverpool attack for years.  To start illuminating players in the MLS that fit this mold, Key features for progressive defenders were visualised.
 
 ### images of scatter plots 
-![true_tackle_pct](/data/images/true_tackle_pct.png)
-![Attacking_touches_vs_key_passes](/data/images/Attacking_touches_vs_key_passes.png)
+![[true_tackle_pct|width=100px]](/data/images/true_tackle_pct.png)
+![[Attacking_touches_vs_key_passes|width=100px]](/data/images/Attacking_touches_vs_key_passes.png)
 
 
 ### EDA final player list 
@@ -51,20 +51,20 @@ Nathan Cordoso, Julian Gressel, Hector Jimenez, Kai Wagner and Graham Zusi  were
 
 NMF or Non Negative Matrix Factorization is widely used for topic modeling and document clustering. I used NMF to classify my MLS 2021 data set by the "topic" or ,grouping of player stats,that I will call a "skill set group". Similar players will have similar scores for the NMF generated skill set group features. To be able to compare players skill set group scores the cosine similarity between the normalized NMF output matrix allows for a distance between the target players identified in EDA and the rest of the league to be calculated. 
 The clusters 
-![test image](/data/images/NMF_clusters_PCA.jpeg)
+![[test image|width=100px]](/data/images/NMF_clusters_PCA.jpeg)
 ## 5 - Predictions  
 Objective - Take target players from EDA and use the NMF model as a recommendation system for similar players.
 
 - Nathan Cordoso 
 One of the players profiled in the EDA is Nathan Cordoso who stood out as a dependable and efficient Defender for the San Jose Earthquakes in 2021 after coming over from FC Zurich mid season Unfortunately with Nathan having undergone surgery to repair a torn meniscus in his left knee suffered in the opening game of the 2022 season he is expected to be sidelined for up to two months. The player identified to be the closest from the W matrix is Andres Reyes -- 
-![Nathan](/data/images/Nathan.png) ![Andres_Reyes](/data/images/Andres_Reyes.png)
-![Nathan_radar](/data/images/Nathan_radar.png)
+![[Nathan|width=100px]](/data/images/Nathan.png) ![[Andres_Reyes|width=100px]](/data/images/Andres_Reyes.png)
+![[Nathan_radar|width=100px]](/data/images/Nathan_radar.png)
 - Julian Gressel
-![Jullian-Gressel](/data/images/Jullian-Gressel.png) ![Gumundur_porarinsson](/data/images/Gumundur_porarinsson .png)
-![Julian_radar](/data/images/Julian_radar.png)
-![Jullian_bar](/data/images/Jullian_bar.png)
+![[Jullian-Gressel|width=100px]](/data/images/Jullian-Gressel.png) ![[Gumundur_porarinsson|width=100px]](/data/images/Gumundur_porarinsson .png)
+![[Julian_radar|width=100px]](/data/images/Julian_radar.png)
+![[Jullian_bar|width=100px]](/data/images/Jullian_bar.png)
  Guðmundur Þórarinsson who now plays for AALBORG BKin the SUPERLIGAEN  after leaving NYC and their successful total campaign is closest to Julian Gressle. Both players are highlighted for their Progressive play on the ball, number of players dribbled past and recoveries. 
 
-![Player_rank_heat_map](/data/images/Def_player_heatmap.png)
+![[Player_rank_heat_map|width=100px]](/data/images/Def_player_heatmap.png)
 
 
