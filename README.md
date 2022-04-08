@@ -38,11 +38,11 @@ In my EDA there are some key questions that drive the exploration of the player 
 
 The first step in answering this question is to define a progressive defender. This player is sound defensively as well as being able to get involved in the attack through their dribbling, passing or a combination of the both. Specifically their play progresses the attack forward instead of simply distributing to low lying midfielders to do most of the progression. In the modern game players such as Alexander Arnold  come to mind. His ability to use wide space to progress the ball as well as put crosses in have been a staple of the Liverpool attack for years.  To start illuminating players in the MLS that fit this mold, Key features for progressive defenders were visualised.
 
-### images of scatter plots 
-![[true_tackle_pct|width=100px]](/data/images/true_tackle_pct.png)
 Julian Araujo ,Alan Franco, Nathan Cordoso, show their speration in quality at the top left of the graph.
-![[Attacking_touches_vs_key_passes|width=100px]](/data/images/Attacking_touches_vs_key_passes.png)
+![[true_tackle_pct|width=100px]](/data/images/true_tackle_pct.png)
 1) Gulian Gressel, D.C. United Wing back 2) Brooks Lennon, Atlanta United Full-back. Both are getting above 25 touches in attacking positions per game while also averaging above 2.5 key passes to create scoring changes showing themselves to be effective at going forward.
+![[Attacking_touches_vs_key_passes|width=100px]](/data/images/Attacking_touches_vs_key_passes.png)
+
 
 
 ### EDA final player list 
@@ -60,14 +60,19 @@ The clusters below show the leauge classified into 9 different skill set groups 
 Objective - Take target players from EDA and use the NMF model as a recommendation system for similar players.
 [Modeling Notebook with all player recomendations](MLS_clustering_Captsone/notebooks/5_modeling.ipynb)
 
-Example of the comparison between Julian Gressel and the models closest match Guðmundur Þórarinsson below 
-
+### Example of the comparison between Julian Gressel and the models closest match Guðmundur Þórarinsson 
+The Weight matrix from the NMF puts  Guðmundur Þórarinsson as the closest player to our identified player Julian Gressel. 
+<img src="    " width="300" height="300">
+Both players progressive play as well as astute defensive ability can be seen in the radar plot. 
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Julian_radar.png" width="300" height="300">
-- need breakdown of comparison here
+
+Simularities in the players features can be seen in the bar graph below. 
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="400" height="225">
  
+ ### Heatmap of identified players
+ Most players identified in modeling rank in the 90th percentile and above in progressive passing feature rank which included features such as Crosses, touches_att_3rd, attacking_touches, xA. Any of these players could be looked at for playing in a back line with a progessive role in the attack.
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Def_player_heatmap.png" width="300" height="300">
-Most players identified in modeling rank in the 90th percentile and above in progressive passing feature rank which included features such as Crosses, touches_att_3rd, attacking_touches, xA.
+
 ## 6 -  Future Improvements 
 
 There are multiple options to expand this project to allow for more impact to be made.
