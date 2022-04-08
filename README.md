@@ -55,16 +55,13 @@ Objective - Take target players from EDA and use the NMF model as a recommendati
 
 - Nathan Cordoso 
 One of the players profiled in the EDA is Nathan Cordoso who stood out as a dependable and efficient Defender for the San Jose Earthquakes in 2021 after coming over from FC Zurich mid season Unfortunately with Nathan having undergone surgery to repair a torn meniscus in his left knee suffered in the opening game of the 2022 season he is expected to be sidelined for up to two months. The player identified to be the closest from the W matrix is Andres Reyes -- 
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Nathan.png" width="100" height="100">
-
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Andres_Reyes.png" width="100" height="100">
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Nathan_radar.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Nathan.png" width="100" height="100"><img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Andres_Reyes.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Nathan_radar.png" width="225" height="225">
 - Julian Gressel
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian-Gressel.png" width="100" height="100">
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Gumundur_porarinsson%20.png" width="100" height="100">
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Julian_radar.png" width="100" height="100">
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian-Gressel.png" width="100" height="100"><img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Gumundur_porarinsson%20.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Julian_radar.png" width="300" height="300">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="400" height="225">
  Guðmundur Þórarinsson who now plays for AALBORG BKin the SUPERLIGAEN  after leaving NYC and their successful total campaign is closest to Julian Gressle. Both players are highlighted for their Progressive play on the ball, number of players dribbled past and recoveries. 
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Def_player_heatmap.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Def_player_heatmap.png" width="300" height="300">
 
 
