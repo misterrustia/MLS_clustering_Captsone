@@ -1,8 +1,5 @@
-# MLS_Clustering_Captsone
-Clustering on 2021 player stats
-
 # MLS Player Recommendation Capstone Documentation
-By Robet D. Rustia 
+
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_tackle.jpg" width="400" height="325">
 
 ## Problem Statement 
