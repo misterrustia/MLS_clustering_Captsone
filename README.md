@@ -57,14 +57,16 @@ Objective - Take target players from EDA and use the NMF model as a recommendati
 
 - Nathan Cordoso 
 One of the players profiled in the EDA is Nathan Cordoso who stood out as a dependable and efficient Defender for the San Jose Earthquakes in 2021 after coming over from FC Zurich mid season Unfortunately with Nathan having undergone surgery to repair a torn meniscus in his left knee suffered in the opening game of the 2022 season he is expected to be sidelined for up to two months. The player identified to be the closest from the W matrix is Andres Reyes -- 
-![[Nathan|width=100px]](/data/images/Nathan.png) ![[Andres_Reyes|width=100px]](/data/images/Andres_Reyes.png)
-![[Nathan_radar|width=100px]](/data/images/Nathan_radar.png)
+![[Nathan|width=100px]](/data/images/Nathan.png| width=100)
+![[Andres_Reyes|width=100px]](/data/images/Andres_Reyes.png| width=100)
+![[Nathan_radar|width=100px]](/data/images/Nathan_radar.png| width=100)
 - Julian Gressel
-![[Jullian-Gressel|width=100px]](/data/images/Jullian-Gressel.png) ![[Gumundur_porarinsson|width=100px]](/data/images/Gumundur_porarinsson .png)
-![[Julian_radar|width=100px]](/data/images/Julian_radar.png)
-![[Jullian_bar|width=100px]](/data/images/Jullian_bar.png)
+![[Jullian-Gressel|width=100px]](/data/images/Jullian-Gressel.png| width=100) 
+![[Gumundur_porarinsson|width=100px]](/data/images/Gumundur_porarinsson .png| width=100)
+![[Julian_radar|width=100px]](/data/images/Julian_radar.png| width=100)
+![[Jullian_bar|width=100px]](/data/images/Jullian_bar.png| width=100)
  Guðmundur Þórarinsson who now plays for AALBORG BKin the SUPERLIGAEN  after leaving NYC and their successful total campaign is closest to Julian Gressle. Both players are highlighted for their Progressive play on the ball, number of players dribbled past and recoveries. 
 
-![[Player_rank_heat_map|width=100px]](/data/images/Def_player_heatmap.png)
+![[Player_rank_heat_map|width=100px]](/data/images/Def_player_heatmap.png| width=100)
 
 
