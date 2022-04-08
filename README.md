@@ -7,10 +7,12 @@
 
 
 ## 1 - Data 
+[data wrangling notebook](MLS_clustering_Captsone/notebooks/1_Data_Wrangling/)
 2021 MLS season is collected from FBREF data by Sports Reference , “Football Stats and History Statistics, scores and history for 100+ men's and women's club and national team competitions.”. The referenced data source for the FBREF website is Statsbomb collected event data. Tables from multiple pages on the site are collected and cleaned to be formatted for ingestion into Google Big Query. Once these initial tables are in Big Query they are joined together on player_id.
 
 
 ## 2 - Feature Engineering 
+[Feature Engineering notebook](MLS_clustering_Captsone/notebooks/3_feature_engineering.ipynb)
 To be able to compare players to find progressive defenders, features that exemplify this kind of player have to be created from the original dataset. Among other sources of inspiration The 10 Commandments of football analytics was a great starting place for feature design. Through feature engineering the following questions were addressed.   
 
 - Problem: Data has season totals for all stats and comparisons need to be done at per 90 values. No true player comparisons can be done without scaling to per 90 on all non percentage based stats. 
@@ -26,7 +28,8 @@ To evaluate effective progression of the ball up the field Progressive play is m
  
  
 
-## 3 - Exploratory Data Analysis  
+## 3 - Exploratory Data Analysis 
+[Exploratory Data Analysis notebook](MLS_clustering_Captsone/notebooks/2_exploratory_data_analysis.ipynb)
 As John Tukey said 
 > Exploratory data Analysis can never be the whole story, but nothing else can serve as a foundation stone, the first step.
 In my EDA there are some key questions that drive the exploration of the player features. The main questions are phrased below. 
@@ -46,20 +49,32 @@ Nathan Cordoso, Julian Gressel, Hector Jimenez, Kai Wagner and Graham Zusi  were
 
 
 ## 4 - Algorithm and Machine Learning 
-
+[Preprocessing notebook](MLS_clustering_Captsone/notebooks/4_preprocessing_tuning.ipynb)
 NMF or Non Negative Matrix Factorization is widely used for topic modeling and document clustering. NMF classifies the MLS 2021 data set by "topic" or ,group of player stats, called a "skill set group". Similar players will have similar scores for the NMF generated skill set group features. To be able to compare players skill set group scores the cosine similarity between the normalized NMF output W(weight) matrix allows for a distance between a target players identified in EDA and the rest of the league to be calculated. 
 The clusters below show the leauge classified into 9 different skill set groups by the final NMF model. 
 ![[test image|width=100px]](/data/images/NMF_clusters_PCA.jpeg)
+
 ## 5 - Predictions  
 Objective - Take target players from EDA and use the NMF model as a recommendation system for similar players.
-[Modeling Notebook](MLS_clustering_Captsone/notebooks/5_modeling.ipynb)
+[Modeling Notebook with all player recomendations](MLS_clustering_Captsone/notebooks/5_modeling.ipynb)
 
-One of the target players 
+Example of the comparison between Julian Gressel and the models closest match Guðmundur Þórarinsson below 
 
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Julian_radar.png" width="300" height="300">
-- does this put something to break it up ?
+- need breakdown of comparison here
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="400" height="225">
  
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Def_player_heatmap.png" width="300" height="300">
+
+## 6 -  Future Improvements 
+
+There are multiple options to expand this project to allow for more impact to be made.
+1 - the first extension would be to model attacking KPI’s and attacking players.
+2 - create more granular KPIs such as forward pass completion rate, from Second Spectrum data provided to all MLS clubs to build NMF recommendations on.  
+3 - Scaling the model to connect with statsbombs data from other leagues to look for players similar to target players around the world. This expanded database would allow for scouting of key markets or for searches driven by key features. This Technique could allow teams with smaller pockets to find gems that could make the difference in winning a MLS cup.
+4 - package the model into a user interface with Bokeh for stakeholders to access freely.  
+
+## 9 - Credits 
+Thanks to Charlie Tuley, Ramzi Bensaid and Jeff Ota for the support working with MLS player data, Upom Malik for being an amazing Springboard mentor. 
 
 
