@@ -3,6 +3,7 @@ Clustering on 2021 player stats
 
 # MLS Player Recommendation Capstone Documentation
 By Robet D. Rustia 
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_tackle.jpg" width="400" height="325">
 
 ## Problem Statement 
   The average MLS roster guaranteed salary for 2021 is $13,381,000, with some teams spending north of 20 Million dollars a year. For some teams below the average salary, finding talent that is not already in the limelight is a must. With 85 different countries represented in the league in 2021 there is a large and diverse pool of players. Having the best defenders is the underpinning of any winning team. Through exploratory data analysis I will profile defenders who are the most progressive in the play and then create a player  recommendation system to identify players in the league that have similar stats to the players profiled in the exploratory data analysis. 
@@ -57,17 +58,16 @@ Objective - Take target players from EDA and use the NMF model as a recommendati
 
 - Nathan Cordoso 
 One of the players profiled in the EDA is Nathan Cordoso who stood out as a dependable and efficient Defender for the San Jose Earthquakes in 2021 after coming over from FC Zurich mid season Unfortunately with Nathan having undergone surgery to repair a torn meniscus in his left knee suffered in the opening game of the 2022 season he is expected to be sidelined for up to two months. The player identified to be the closest from the W matrix is Andres Reyes -- 
-![[Nathan|width=100px]](/data/images/Nathan.png| width=100)
-<!-- ![[Andres_Reyes|width=100px]] -->
-<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Andres_Reyes.png" width="100" height="100">
-![[Nathan_radar|width=100px]](/data/images/Nathan_radar.png| width=100)
-- Julian Gressel
-![[Jullian-Gressel|width=100px]](/data/images/Jullian-Gressel.png| width=100) 
-![[Gumundur_porarinsson|width=100px]](/data/images/Gumundur_porarinsson .png| width=100)
-![[Julian_radar|width=100px]](/data/images/Julian_radar.png| width=100)
-![[Jullian_bar|width=100px]](/data/images/Jullian_bar.png)
- Guðmundur Þórarinsson who now plays for AALBORG BKin the SUPERLIGAEN  after leaving NYC and their successful total campaign is closest to Julian Gressle. Both players are highlighted for their Progressive play on the ball, number of players dribbled past and recoveries. 
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Nathan.png" width="100" height="100">
 
-![[Player_rank_heat_map|width=100px]](/data/images/Def_player_heatmap.png)
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Andres_Reyes.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Nathan_radar.png" width="100" height="100">
+- Julian Gressel
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian-Gressel.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Gumundur_porarinsson%20.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Julian_radar.png" width="100" height="100">
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="100" height="100">
+ Guðmundur Þórarinsson who now plays for AALBORG BKin the SUPERLIGAEN  after leaving NYC and their successful total campaign is closest to Julian Gressle. Both players are highlighted for their Progressive play on the ball, number of players dribbled past and recoveries. 
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Def_player_heatmap.png" width="100" height="100">
 
 
