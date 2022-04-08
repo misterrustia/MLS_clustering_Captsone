@@ -58,7 +58,8 @@ Objective - Take target players from EDA and use the NMF model as a recommendati
 - Nathan Cordoso 
 One of the players profiled in the EDA is Nathan Cordoso who stood out as a dependable and efficient Defender for the San Jose Earthquakes in 2021 after coming over from FC Zurich mid season Unfortunately with Nathan having undergone surgery to repair a torn meniscus in his left knee suffered in the opening game of the 2022 season he is expected to be sidelined for up to two months. The player identified to be the closest from the W matrix is Andres Reyes -- 
 ![[Nathan|width=100px]](/data/images/Nathan.png| width=100)
-![[Andres_Reyes|width=100px]](/data/images/Andres_Reyes.png| width=100)
+<!-- ![[Andres_Reyes|width=100px]] -->
+<img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Andres_Reyes.png"width="100" height="100">
 ![[Nathan_radar|width=100px]](/data/images/Nathan_radar.png| width=100)
 - Julian Gressel
 ![[Jullian-Gressel|width=100px]](/data/images/Jullian-Gressel.png| width=100) 
