@@ -40,11 +40,13 @@ The first step in answering this question is to define a progressive defender. T
 
 ### images of scatter plots 
 ![[true_tackle_pct|width=100px]](/data/images/true_tackle_pct.png)
+Julian Araujo ,Alan Franco, Nathan Cordoso, show their speration in quality at the top left of the graph.
 ![[Attacking_touches_vs_key_passes|width=100px]](/data/images/Attacking_touches_vs_key_passes.png)
+1) Gulian Gressel, D.C. United Wing back 2) Brooks Lennon, Atlanta United Full-back. Both are getting above 25 touches in attacking positions per game while also averaging above 2.5 key passes to create scoring changes showing themselves to be effective at going forward.
 
 
 ### EDA final player list 
-Nathan Cordoso, Julian Gressel, Hector Jimenez, Kai Wagner and Graham Zusi  were identified through the EDA process as progressive defenders involved in the attack. The output matrix from the NMF will be used to find the closest players to these players of interest. 
+Nathan Cordoso, Julian Gressel,Hector Jimenez, Kai Wagner and Graham Zusi  were identified through the EDA process as progressive defenders involved in the attack. The output matrix from the NMF will be used to find the closest players to these players of interest. 
 
 
 
@@ -65,7 +67,7 @@ Example of the comparison between Julian Gressel and the models closest match Gu
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Jullian_bar.png" width="400" height="225">
  
 <img src="https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/data/images/Def_player_heatmap.png" width="300" height="300">
-
+Most players identified in modeling rank in the 90th percentile and above in progressive passing feature rank which included features such as Crosses, touches_att_3rd, attacking_touches, xA.
 ## 6 -  Future Improvements 
 
 There are multiple options to expand this project to allow for more impact to be made.
