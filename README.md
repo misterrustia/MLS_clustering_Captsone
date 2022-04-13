@@ -5,7 +5,7 @@
 ## Problem Statement 
   The average MLS roster guaranteed salary for 2021 is $13,381,000, with some teams spending north of 20 Million dollars a year. For some teams below the average salary, finding talent that is not already in the limelight is a must. With 85 different countries represented in the league in 2021 there is a large and diverse pool of players. Having the best defenders is the underpinning of any winning team. Through exploratory data analysis I will profile defenders who are the most progressive in the play and then create a player  recommendation system to identify players in the league that have similar stats to the players profiled in the exploratory data analysis. 
 
-
+[Full Presentation Slides](https://docs.google.com/presentation/d/1Zcw_PW3cpc7hAVKwFsE6Sq27JN_i7PS7mmsvTN6P040/edit?usp=sharing)
 ## 1 - Data 
 [data wrangling notebook](https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/notebooks/1_Data_Wrangling/Data_Wrangling.ipynb)
 2021 MLS season is collected from FBREF data by Sports Reference , “Football Stats and History Statistics, scores and history for 100+ men's and women's club and national team competitions.”. The referenced data source for the FBREF website is Statsbomb collected event data. Tables from multiple pages on the site are collected and cleaned to be formatted for ingestion into Google Big Query. Once these initial tables are in Big Query they are joined together on player_id.
