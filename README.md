@@ -7,7 +7,7 @@
 
 
 ## 1 - Data 
-[data wrangling notebook](MLS_clustering_Captsone/notebooks/1_Data_Wrangling/)
+[data wrangling notebook](https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/notebooks/1_Data_Wrangling/Data_Wrangling.ipynb)
 2021 MLS season is collected from FBREF data by Sports Reference , “Football Stats and History Statistics, scores and history for 100+ men's and women's club and national team competitions.”. The referenced data source for the FBREF website is Statsbomb collected event data. Tables from multiple pages on the site are collected and cleaned to be formatted for ingestion into Google Big Query. Once these initial tables are in Big Query they are joined together on player_id.
 
 
@@ -29,7 +29,7 @@ To evaluate effective progression of the ball up the field Progressive play is m
  
 
 ## 3 - Exploratory Data Analysis 
-[Exploratory Data Analysis notebook](MLS_clustering_Captsone/notebooks/2_exploratory_data_analysis.ipynb)
+[Exploratory Data Analysis notebook](https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/notebooks/2_exploratory_data_analysis.ipynb)
 As John Tukey said 
 > Exploratory data Analysis can never be the whole story, but nothing else can serve as a foundation stone, the first step.
 In my EDA there are some key questions that drive the exploration of the player features. The main questions are phrased below. 
@@ -38,9 +38,11 @@ In my EDA there are some key questions that drive the exploration of the player 
 
 The first step in answering this question is to define a progressive defender. This player is sound defensively as well as being able to get involved in the attack through their dribbling, passing or a combination of the both. Specifically their play progresses the attack forward instead of simply distributing to low lying midfielders to do most of the progression. In the modern game players such as Alexander Arnold  come to mind. His ability to use wide space to progress the ball as well as put crosses in have been a staple of the Liverpool attack for years.  To start illuminating players in the MLS that fit this mold, Key features for progressive defenders were visualised.
 
-Julian Araujo ,Alan Franco, Nathan Cordoso, show their speration in quality at the top left of the graph.
+Julian Araujo ,Alan Franco, **Nathan Cardoso**, show their speration in quality at the top left of the graph.
 ![[true_tackle_pct|width=100px]](/data/images/true_tackle_pct.png)
-1) Gulian Gressel, D.C. United Wing back 2) Brooks Lennon, Atlanta United Full-back. Both are getting above 25 touches in attacking positions per game while also averaging above 2.5 key passes to create scoring changes showing themselves to be effective at going forward.
+
+1) **Julian Gressel**, **Brooks Lennon**,  and **Hector Jimenez** stand out at the top right of the graph. They are involved in creating goal scoring chances through their key passes while also averaging over 25 attacking touches per match.This highlights their involvement with the attack in advanced positions. 
+
 ![[Attacking_touches_vs_key_passes|width=100px]](/data/images/Attacking_touches_vs_key_passes.png)
 
 
@@ -51,14 +53,14 @@ Nathan Cordoso, Julian Gressel,Hector Jimenez, Kai Wagner and Graham Zusi  were 
 
 
 ## 4 - Algorithm and Machine Learning 
-[Preprocessing notebook](MLS_clustering_Captsone/notebooks/4_preprocessing_tuning.ipynb)
+[Preprocessing notebook](https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/notebooks/4_preprocessing_tuning.ipynb)
 NMF or Non Negative Matrix Factorization is widely used for topic modeling and document clustering. NMF classifies the MLS 2021 data set by "topic" or ,group of player stats, called a "skill set group". Similar players will have similar scores for the NMF generated skill set group features. To be able to compare players skill set group scores the cosine similarity between the normalized NMF output W(weight) matrix allows for a distance between a target players identified in EDA and the rest of the league to be calculated. 
 The clusters below show the leauge classified into 9 different skill set groups by the final NMF model. 
 ![[test image|width=100px]](/data/images/NMF_clusters_PCA.jpeg)
 
 ## 5 - Predictions  
 Objective - Take target players from EDA and use the NMF model as a recommendation system for similar players.
-[Modeling Notebook with all player recomendations](MLS_clustering_Captsone/notebooks/5_modeling.ipynb)
+[Modeling Notebook with all player recomendations](https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/notebooks/5_modeling.ipynb)
 
 Example of the comparison between Julian Gressel and the models closest match Guðmundur Þórarinsson 
 The Weight matrix from the NMF puts  Guðmundur Þórarinsson as the closest player to our identified player Julian Gressel. 
