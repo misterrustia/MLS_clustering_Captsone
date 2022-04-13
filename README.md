@@ -12,7 +12,7 @@
 
 
 ## 2 - Feature Engineering 
-[Feature Engineering notebook](MLS_clustering_Captsone/notebooks/3_feature_engineering.ipynb)
+[Feature Engineering notebook](https://github.com/misterrustia/MLS_clustering_Captsone/blob/main/notebooks/3_feature_engineering.ipynb)
 To be able to compare players to find progressive defenders, features that exemplify this kind of player have to be created from the original dataset. Among other sources of inspiration The 10 Commandments of football analytics was a great starting place for feature design. Through feature engineering the following questions were addressed.   
 
 - Problem: Data has season totals for all stats and comparisons need to be done at per 90 values. No true player comparisons can be done without scaling to per 90 on all non percentage based stats. 
